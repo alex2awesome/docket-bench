@@ -138,9 +138,7 @@
       "description": "558 dockets comprising the DOCKETBench evaluation population.",
       "field": [
         {"@type": "cr:Field", "@id": "benchmark-docket-records/docket_id", "dataType": "sc:Text", "description": "Federal docket identifier (e.g., EPA-HQ-OAR-2017-0091)", "source": {"fileObject": {"@id": "benchmark-dockets"}, "extract": {"jsonPath": "$.docket_id"}}},
-        {"@type": "cr:Field", "@id": "benchmark-docket-records/agency", "dataType": "sc:Text", "description": "Parent federal agency", "source": {"fileObject": {"@id": "benchmark-dockets"}, "extract": {"jsonPath": "$.agency"}}},
-        {"@type": "cr:Field", "@id": "benchmark-docket-records/n_provisions", "dataType": "sc:Integer", "description": "Number of extracted provisions (5-100)", "source": {"fileObject": {"@id": "benchmark-dockets"}, "extract": {"jsonPath": "$.n_provisions"}}},
-        {"@type": "cr:Field", "@id": "benchmark-docket-records/n_claims", "dataType": "sc:Integer", "description": "Number of matched real claims", "source": {"fileObject": {"@id": "benchmark-dockets"}, "extract": {"jsonPath": "$.n_claims"}}}
+        {"@type": "cr:Field", "@id": "benchmark-docket-records/n_units", "dataType": "sc:Integer", "description": "Number of extracted deontic units (provisions) in the docket", "source": {"fileObject": {"@id": "benchmark-dockets"}, "extract": {"jsonPath": "$.n_units"}}}
       ]
     },
     {

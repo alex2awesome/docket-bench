@@ -1,0 +1,131 @@
+{
+  "@context": {
+    "sc": "https://schema.org/",
+    "cr": "https://mlcommons.org/croissant/",
+    "rai": "https://mlcommons.org/croissant/RAI/",
+    "prov": "http://www.w3.org/ns/prov#"
+  },
+  "@type": "sc:Dataset",
+  "name": "DOCKET: Dataset of Comments, Knowledge, and Executive Texts",
+  "description": "The largest structured, publicly available dataset of U.S. federal rulemaking. Contains 42.3M public comments on 22,400 regulations across 44 government agencies (2016-2026), with extracted provisions, matched claims, agency responses, and a 558-docket pluralism benchmark (DOCKETBench).",
+  "url": "https://anonymous.4open.science/r/docket-bench-EF42/",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
+  "version": "1.0.0",
+  "datePublished": "2026-05-07",
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "@id": "benchmark-dockets",
+      "name": "benchmark_dockets_558.jsonl",
+      "description": "558 benchmark dockets with metadata (agency, title, provision count, comment count).",
+      "contentUrl": "reviewer_subset/benchmark/benchmark_dockets_558.jsonl",
+      "encodingFormat": "application/jsonlines"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "proposed-provisions",
+      "name": "proposed_rule_provisions_558.jsonl",
+      "description": "Extracted deontic units (provisions) from proposed rules across 558 benchmark dockets. Each provision includes section, obligation text, actor, modal verb, type (obligation/permission/prohibition/condition/exception).",
+      "contentUrl": "reviewer_subset/benchmark/proposed_rule_provisions_558.jsonl",
+      "encodingFormat": "application/jsonlines"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "org-type-lookup",
+      "name": "commenter_org_type_lookup_558.csv.gz",
+      "description": "Mapping from commenter cluster_uid to organization type (individual, corporation, trade_association, ngo_advocacy, government, academic, professional_society, labor_union, law_firm) for commenters on benchmark dockets.",
+      "contentUrl": "reviewer_subset/benchmark/commenter_org_type_lookup_558.csv.gz",
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "real-claim-frames",
+      "name": "real_claim_frames.jsonl",
+      "description": "Primary concern frame labels (12-class taxonomy) assigned to 43,371 real human claims by gpt-5-mini.",
+      "contentUrl": "reviewer_subset/derived/real_claim_frames.jsonl",
+      "encodingFormat": "application/jsonlines"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "evidence-patterns",
+      "name": "evidence_patterns.jsonl",
+      "description": "Evidence extraction from 30,588 substantive comments: statutes cited, published data, studies cited, regulatory history, specific alternatives.",
+      "contentUrl": "reviewer_subset/derived/evidence_patterns.jsonl",
+      "encodingFormat": "application/jsonlines"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "framing-clusters",
+      "name": "framing_clusters.jsonl",
+      "description": "Canonical framing clusters per docket, produced by Llama-3.3-70B clustering of real comment framings (~78 raw items -> ~25 canonical clusters per docket).",
+      "contentUrl": "reviewer_subset/derived/clustered_taxonomy/framing_clusters.jsonl",
+      "encodingFormat": "application/jsonlines"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "structure-clusters",
+      "name": "structure_clusters.jsonl",
+      "description": "Canonical structure/style clusters per docket, produced by Llama-3.3-70B clustering (~118 raw items -> ~23 canonical clusters per docket).",
+      "contentUrl": "reviewer_subset/derived/clustered_taxonomy/structure_clusters.jsonl",
+      "encodingFormat": "application/jsonlines"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "generated-claims-example",
+      "name": "gpt-5-mini_vanilla/generated_claims.jsonl.gz",
+      "description": "LLM-generated claims for gpt-5-mini vanilla prompting across 558 dockets. Each record contains docket_id, parsed_claims (with provision_idx and claim_text), model, variant.",
+      "contentUrl": "reviewer_subset/benchmark_runs/gpt-5-mini_vanilla/generated_claims.jsonl.gz",
+      "encodingFormat": "application/gzip"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "pair-judgments-example",
+      "name": "gpt-5-mini_vanilla/pair_judgments.jsonl.gz",
+      "description": "Pair judgments for gpt-5-mini vanilla: each (LLM claim, real claim) pair labeled as same/related/opposing/different by gpt-4o-mini judge.",
+      "contentUrl": "reviewer_subset/benchmark_runs/gpt-5-mini_vanilla/pair_judgments.jsonl.gz",
+      "encodingFormat": "application/gzip"
+    }
+  ],
+  "recordSet": [
+    {
+      "@type": "cr:RecordSet",
+      "@id": "benchmark-docket-records",
+      "name": "Benchmark Dockets",
+      "description": "558 dockets comprising the DOCKETBench evaluation population.",
+      "field": [
+        {"@id": "docket_id", "dataType": "sc:Text", "description": "Federal docket identifier (e.g., EPA-HQ-OAR-2017-0091)"},
+        {"@id": "agency", "dataType": "sc:Text", "description": "Parent federal agency"},
+        {"@id": "n_provisions", "dataType": "sc:Integer", "description": "Number of extracted provisions (5-100)"},
+        {"@id": "n_claims", "dataType": "sc:Integer", "description": "Number of matched real claims"}
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "pair-judgment-records",
+      "name": "Claim Pair Judgments",
+      "description": "LLM-as-judge labels for (generated claim, real claim) pairs.",
+      "field": [
+        {"@id": "docket_id", "dataType": "sc:Text"},
+        {"@id": "llm_text", "dataType": "sc:Text", "description": "LLM-generated claim text"},
+        {"@id": "real_text", "dataType": "sc:Text", "description": "Real human claim text"},
+        {"@id": "cosine", "dataType": "sc:Float", "description": "MiniLM embedding cosine similarity"},
+        {"@id": "label", "dataType": "sc:Text", "description": "Judge label: same, related, opposing, or different"},
+        {"@id": "model", "dataType": "sc:Text", "description": "LLM model that generated the claim"},
+        {"@id": "variant", "dataType": "sc:Text", "description": "Prompting variant (vanilla, subgroup, etc.)"}
+      ]
+    }
+  ],
+  "rai:dataLimitations": "U.S. federal rulemaking only (2016-2026). Coverage is thinner for agencies with external comment portals (FCC, SEC, FDIC, FEC) where matching pipelines have not yet been run. MinHash deduplication may merge substantively distinct but textually similar comments. Approximately 29% of raw comments are attachment-only or stub records with no extractable body text. LLM-derived labels (claim extraction, matching, frame classification) carry residual error; per-stage accuracy estimates are documented in the paper appendix.",
+  "rai:dataBiases": "The dataset reflects structural biases in U.S. federal rulemaking participation: individuals submit 91% of comments but may be underrepresented in substantive engagement metrics. Industry and law firm commenters are overrepresented in matched claims relative to their population share. Comment volume varies by orders of magnitude across agencies and time periods. LLM-derived org_type labels have approximately 10% unknown/unclassifiable rate.",
+  "rai:personalSensitiveInformation": "Public comments may contain personally identifiable information (names, addresses, medical details, financial information) voluntarily disclosed by commenters. A PII-scrubbing pipeline will be applied before full public release. The reviewer subset contains commenter cluster_uids (anonymized identifiers) but not raw commenter names or contact information.",
+  "rai:dataUseCases": "Validated uses: evaluating LLM pluralism in policy domains, studying stakeholder participation patterns in federal rulemaking, benchmarking comment generation and anticipation systems. Non-validated uses: generating comments for actual regulatory submission, training models to impersonate specific stakeholders, automated lobbying.",
+  "rai:dataSocialImpact": "Positive: enables empirical study of democratic participation at unprecedented scale; provides infrastructure to audit AI tools that agencies are deploying to process comments. Negative: risk that LLM-assisted commenting amplifies existing participation inequities favoring industry and law firms; concern that LLM-generated comments may overwhelm the notice-and-comment process.",
+  "rai:hasSyntheticData": true,
+  "prov:wasDerivedFrom": [
+    "https://www.regulations.gov/bulkdownload",
+    "https://publicapi.fcc.gov/ecfs/",
+    "https://www.sec.gov/comments/"
+  ],
+  "prov:wasGeneratedBy": "Multi-stage pipeline: (1) Scraping from regulations.gov bulk download and 15 agency-specific portals; (2) MinHash near-duplicate detection (Jaccard threshold); (3) Deontic unit extraction via gpt-5-mini; (4) Claim extraction and 3-stage matching cascade (bi-encoder retrieval, ModernBERT cross-encoder, LLM-as-judge); (5) Frame/style extraction via Llama-3.3-70B; (6) Benchmark generation across 7 LLM models with vanilla and persona-conditioned prompting. Total LLM API cost: ~$340."
+}

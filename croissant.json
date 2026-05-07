@@ -46,15 +46,16 @@
   "conformsTo": "http://mlcommons.org/croissant/1.1",
   "version": "1.0.0",
   "datePublished": "2026-05-07",
-  "citeAs": "Anonymous (2026). DOCKET & DOCKETBench. NeurIPS 2026 Datasets and Benchmarks Track.",
+  "citeAs": "Anonymous (2026). DOCKET and DOCKETBench. NeurIPS 2026 Datasets and Benchmarks Track.",
   "distribution": [
     {
       "@type": "cr:FileObject",
       "@id": "benchmark-dockets",
       "name": "benchmark_dockets_558.jsonl",
-      "description": "558 benchmark dockets with metadata (agency, title, provision count, comment count).",
+      "description": "558 benchmark dockets with metadata.",
       "contentUrl": "https://huggingface.co/datasets/docket-dataset-bench/docket-bench-sample/resolve/main/benchmark/benchmark_dockets_558.jsonl",
-      "encodingFormat": "application/jsonlines"
+      "encodingFormat": "application/jsonlines",
+      "md5": "721f45a7e1164bc060df70a8490d54df"
     },
     {
       "@type": "cr:FileObject",
@@ -62,7 +63,8 @@
       "name": "proposed_rule_provisions_558.jsonl",
       "description": "Extracted deontic units (provisions) from proposed rules across 558 benchmark dockets.",
       "contentUrl": "https://huggingface.co/datasets/docket-dataset-bench/docket-bench-sample/resolve/main/benchmark/proposed_rule_provisions_558.jsonl",
-      "encodingFormat": "application/jsonlines"
+      "encodingFormat": "application/jsonlines",
+      "md5": "3db649f8c68d6832e9f44f0e488b1e37"
     },
     {
       "@type": "cr:FileObject",
@@ -70,7 +72,8 @@
       "name": "commenter_org_type_lookup_558.csv.gz",
       "description": "Mapping from commenter cluster_uid to organization type for commenters on benchmark dockets.",
       "contentUrl": "https://huggingface.co/datasets/docket-dataset-bench/docket-bench-sample/resolve/main/benchmark/commenter_org_type_lookup_558.csv.gz",
-      "encodingFormat": "text/csv"
+      "encodingFormat": "text/csv",
+      "md5": "71fe16d0f3f1c6163fbcffc82461f9dc"
     },
     {
       "@type": "cr:FileObject",
@@ -78,15 +81,17 @@
       "name": "real_claim_frames.jsonl",
       "description": "Primary concern frame labels (12-class taxonomy) assigned to 43,371 real human claims.",
       "contentUrl": "https://huggingface.co/datasets/docket-dataset-bench/docket-bench-sample/resolve/main/derived/real_claim_frames.jsonl",
-      "encodingFormat": "application/jsonlines"
+      "encodingFormat": "application/jsonlines",
+      "md5": "e5bd09bcdaed8967ca5e6a751ddff4d9"
     },
     {
       "@type": "cr:FileObject",
       "@id": "evidence-patterns",
       "name": "evidence_patterns.jsonl",
-      "description": "Evidence extraction from 30,588 substantive comments: statutes cited, published data, studies cited, regulatory history, specific alternatives.",
+      "description": "Evidence extraction from 30,588 substantive comments.",
       "contentUrl": "https://huggingface.co/datasets/docket-dataset-bench/docket-bench-sample/resolve/main/derived/evidence_patterns.jsonl",
-      "encodingFormat": "application/jsonlines"
+      "encodingFormat": "application/jsonlines",
+      "md5": "fab88749c9c96d125b2074e44cb9d5bb"
     },
     {
       "@type": "cr:FileObject",
@@ -94,7 +99,8 @@
       "name": "framing_clusters.jsonl",
       "description": "Canonical framing clusters per docket, produced by Llama-3.3-70B clustering.",
       "contentUrl": "https://huggingface.co/datasets/docket-dataset-bench/docket-bench-sample/resolve/main/derived/clustered_taxonomy/framing_clusters.jsonl",
-      "encodingFormat": "application/jsonlines"
+      "encodingFormat": "application/jsonlines",
+      "md5": "462f85d46bb31ed6e4968f3a31275d5f"
     },
     {
       "@type": "cr:FileObject",
@@ -102,7 +108,8 @@
       "name": "structure_clusters.jsonl",
       "description": "Canonical structure/style clusters per docket, produced by Llama-3.3-70B clustering.",
       "contentUrl": "https://huggingface.co/datasets/docket-dataset-bench/docket-bench-sample/resolve/main/derived/clustered_taxonomy/structure_clusters.jsonl",
-      "encodingFormat": "application/jsonlines"
+      "encodingFormat": "application/jsonlines",
+      "md5": "37c0fa56c0093b5c2f3df65155dcfebc"
     },
     {
       "@type": "cr:FileObject",
@@ -110,7 +117,8 @@
       "name": "generated_claims_gpt5mini_vanilla.jsonl.gz",
       "description": "LLM-generated claims for gpt-5-mini vanilla prompting across 558 dockets.",
       "contentUrl": "https://huggingface.co/datasets/docket-dataset-bench/docket-bench-sample/resolve/main/benchmark_runs/gpt-5-mini_vanilla/generated_claims.jsonl.gz",
-      "encodingFormat": "application/gzip"
+      "encodingFormat": "application/gzip",
+      "md5": "9c8e90abc5584ab0038330a265535338"
     },
     {
       "@type": "cr:FileObject",
@@ -118,7 +126,8 @@
       "name": "pair_judgments_gpt5mini_vanilla.jsonl.gz",
       "description": "Pair judgments: each (LLM claim, real claim) pair labeled as same/related/opposing/different.",
       "contentUrl": "https://huggingface.co/datasets/docket-dataset-bench/docket-bench-sample/resolve/main/benchmark_runs/gpt-5-mini_vanilla/pair_judgments.jsonl.gz",
-      "encodingFormat": "application/gzip"
+      "encodingFormat": "application/gzip",
+      "md5": "cc5fde92f9b422950ae35b6c33af98cc"
     }
   ],
   "recordSet": [
@@ -128,10 +137,10 @@
       "name": "Benchmark Dockets",
       "description": "558 dockets comprising the DOCKETBench evaluation population.",
       "field": [
-        {"@id": "docket_id", "dataType": "sc:Text", "description": "Federal docket identifier (e.g., EPA-HQ-OAR-2017-0091)"},
-        {"@id": "agency", "dataType": "sc:Text", "description": "Parent federal agency"},
-        {"@id": "n_provisions", "dataType": "sc:Integer", "description": "Number of extracted provisions (5-100)"},
-        {"@id": "n_claims", "dataType": "sc:Integer", "description": "Number of matched real claims"}
+        {"@type": "cr:Field", "@id": "benchmark-docket-records/docket_id", "dataType": "sc:Text", "description": "Federal docket identifier (e.g., EPA-HQ-OAR-2017-0091)", "source": {"fileObject": {"@id": "benchmark-dockets"}, "extract": {"jsonPath": "$.docket_id"}}},
+        {"@type": "cr:Field", "@id": "benchmark-docket-records/agency", "dataType": "sc:Text", "description": "Parent federal agency", "source": {"fileObject": {"@id": "benchmark-dockets"}, "extract": {"jsonPath": "$.agency"}}},
+        {"@type": "cr:Field", "@id": "benchmark-docket-records/n_provisions", "dataType": "sc:Integer", "description": "Number of extracted provisions (5-100)", "source": {"fileObject": {"@id": "benchmark-dockets"}, "extract": {"jsonPath": "$.n_provisions"}}},
+        {"@type": "cr:Field", "@id": "benchmark-docket-records/n_claims", "dataType": "sc:Integer", "description": "Number of matched real claims", "source": {"fileObject": {"@id": "benchmark-dockets"}, "extract": {"jsonPath": "$.n_claims"}}}
       ]
     },
     {
@@ -140,13 +149,13 @@
       "name": "Claim Pair Judgments",
       "description": "LLM-as-judge labels for (generated claim, real claim) pairs.",
       "field": [
-        {"@id": "docket_id", "dataType": "sc:Text"},
-        {"@id": "llm_text", "dataType": "sc:Text", "description": "LLM-generated claim text"},
-        {"@id": "real_text", "dataType": "sc:Text", "description": "Real human claim text"},
-        {"@id": "cosine", "dataType": "sc:Float", "description": "MiniLM embedding cosine similarity"},
-        {"@id": "label", "dataType": "sc:Text", "description": "Judge label: same, related, opposing, or different"},
-        {"@id": "model", "dataType": "sc:Text", "description": "LLM model that generated the claim"},
-        {"@id": "variant", "dataType": "sc:Text", "description": "Prompting variant (vanilla, subgroup, etc.)"}
+        {"@type": "cr:Field", "@id": "pair-judgment-records/docket_id", "dataType": "sc:Text", "description": "Federal docket identifier", "source": {"fileObject": {"@id": "pair-judgments-example"}, "extract": {"jsonPath": "$.docket_id"}}},
+        {"@type": "cr:Field", "@id": "pair-judgment-records/llm_text", "dataType": "sc:Text", "description": "LLM-generated claim text", "source": {"fileObject": {"@id": "pair-judgments-example"}, "extract": {"jsonPath": "$.llm_text"}}},
+        {"@type": "cr:Field", "@id": "pair-judgment-records/real_text", "dataType": "sc:Text", "description": "Real human claim text", "source": {"fileObject": {"@id": "pair-judgments-example"}, "extract": {"jsonPath": "$.real_text"}}},
+        {"@type": "cr:Field", "@id": "pair-judgment-records/cosine", "dataType": "sc:Float", "description": "MiniLM embedding cosine similarity", "source": {"fileObject": {"@id": "pair-judgments-example"}, "extract": {"jsonPath": "$.cosine"}}},
+        {"@type": "cr:Field", "@id": "pair-judgment-records/label", "dataType": "sc:Text", "description": "Judge label: same, related, opposing, or different", "source": {"fileObject": {"@id": "pair-judgments-example"}, "extract": {"jsonPath": "$.label"}}},
+        {"@type": "cr:Field", "@id": "pair-judgment-records/model", "dataType": "sc:Text", "description": "LLM model that generated the claim", "source": {"fileObject": {"@id": "pair-judgments-example"}, "extract": {"jsonPath": "$.model"}}},
+        {"@type": "cr:Field", "@id": "pair-judgment-records/variant", "dataType": "sc:Text", "description": "Prompting variant (vanilla, subgroup, etc.)", "source": {"fileObject": {"@id": "pair-judgments-example"}, "extract": {"jsonPath": "$.variant"}}}
       ]
     }
   ],

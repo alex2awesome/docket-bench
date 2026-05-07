@@ -1,0 +1,5039 @@
+{
+  "per_docket": {
+    "AMS-AMS-22-0083": {
+      "industry": 0.5,
+      "labor": 0.0,
+      "advocacy": 0.16666666666666666,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.3333333333333333
+    },
+    "AMS-FGIS-19-0062": {
+      "industry": 0.5,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.25,
+      "lawfirm": 0.0,
+      "individual": 0.25
+    },
+    "AMS-FTPP-18-0101": {
+      "industry": 0.05357142857142857,
+      "labor": 0.0,
+      "advocacy": 0.16071428571428573,
+      "expert": 0.017857142857142856,
+      "gov": 0.017857142857142856,
+      "lawfirm": 0.0,
+      "individual": 0.75
+    },
+    "AMS-FTPP-21-0015": {
+      "industry": 0.8,
+      "labor": 0.0,
+      "advocacy": 0.2,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "AMS-FTPP-21-0044": {
+      "industry": 0.0967741935483871,
+      "labor": 0.0,
+      "advocacy": 0.03225806451612903,
+      "expert": 0.03225806451612903,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.8387096774193549
+    },
+    "AMS-LP-19-0113": {
+      "industry": 0.3333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.6666666666666666
+    },
+    "AMS-LP-20-0085": {
+      "industry": 0.09090909090909091,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.9090909090909091
+    },
+    "AMS-LP-22-0002": {
+      "industry": 0.2857142857142857,
+      "labor": 0.0,
+      "advocacy": 0.42857142857142855,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.2857142857142857
+    },
+    "AMS-NOP-17-0065": {
+      "industry": 0.2222222222222222,
+      "labor": 0.0,
+      "advocacy": 0.09523809523809523,
+      "expert": 0.015873015873015872,
+      "gov": 0.06349206349206349,
+      "lawfirm": 0.0,
+      "individual": 0.6031746031746031
+    },
+    "AMS-NOP-17-0080": {
+      "industry": 0.6,
+      "labor": 0.0,
+      "advocacy": 0.4,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "AMS-NOP-18-0051": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.2727272727272727,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.7272727272727273
+    },
+    "AMS-NOP-19-0023": {
+      "industry": 0.3333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.25925925925925924,
+      "expert": 0.037037037037037035,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.37037037037037035
+    },
+    "AMS-NOP-19-0102": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 1.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "AMS-NOP-19-0106": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.16666666666666666,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.8333333333333334
+    },
+    "AMS-NOP-21-0060": {
+      "industry": 0.2682926829268293,
+      "labor": 0.0,
+      "advocacy": 0.14634146341463414,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.5853658536585366
+    },
+    "AMS-SC-17-0002": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "AMS-SC-18-0009": {
+      "industry": 0.6666666666666666,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.3333333333333333
+    },
+    "AMS-SC-18-0046": {
+      "industry": 0.7,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.3
+    },
+    "AMS-SC-18-0072": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "AMS-SC-18-0075": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 1.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "AMS-SC-19-0015": {
+      "industry": 0.8571428571428571,
+      "labor": 0.0,
+      "advocacy": 0.07142857142857142,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.07142857142857142
+    },
+    "AMS-SC-19-0029": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "AMS-SC-19-0109": {
+      "industry": 0.375,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.125,
+      "gov": 0.25,
+      "lawfirm": 0.0,
+      "individual": 0.25
+    },
+    "AMS-SC-20-0014": {
+      "industry": 0.75,
+      "labor": 0.0,
+      "advocacy": 0.1,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.15
+    },
+    "AMS-ST-19-0004": {
+      "industry": 0.6666666666666666,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.3333333333333333
+    },
+    "APHIS-2008-0076": {
+      "industry": 0.225,
+      "labor": 0.0,
+      "advocacy": 0.025,
+      "expert": 0.125,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.625
+    },
+    "APHIS-2011-0009": {
+      "industry": 0.016666666666666666,
+      "labor": 0.0,
+      "advocacy": 0.016666666666666666,
+      "expert": 0.016666666666666666,
+      "gov": 0.0,
+      "lawfirm": 0.016666666666666666,
+      "individual": 0.9333333333333333
+    },
+    "APHIS-2013-0055": {
+      "industry": 0.8571428571428571,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.14285714285714285
+    },
+    "APHIS-2015-0072": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.3333333333333333,
+      "lawfirm": 0.0,
+      "individual": 0.6666666666666666
+    },
+    "APHIS-2015-0101": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.2,
+      "expert": 0.0,
+      "gov": 0.6,
+      "lawfirm": 0.0,
+      "individual": 0.2
+    },
+    "APHIS-2016-0033": {
+      "industry": 0.125,
+      "labor": 0.0,
+      "advocacy": 0.0625,
+      "expert": 0.1875,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.625
+    },
+    "APHIS-2016-0034": {
+      "industry": 0.2857142857142857,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.14285714285714285,
+      "gov": 0.2857142857142857,
+      "lawfirm": 0.0,
+      "individual": 0.2857142857142857
+    },
+    "APHIS-2016-0050": {
+      "industry": 0.375,
+      "labor": 0.0,
+      "advocacy": 0.125,
+      "expert": 0.125,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.375
+    },
+    "APHIS-2016-0054": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.25,
+      "lawfirm": 0.0,
+      "individual": 0.75
+    },
+    "APHIS-2016-0099": {
+      "industry": 0.1,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.3,
+      "lawfirm": 0.0,
+      "individual": 0.6
+    },
+    "APHIS-2017-0062": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.017391304347826087,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.9826086956521739
+    },
+    "APHIS-2017-0065": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "APHIS-2017-0105": {
+      "industry": 0.5714285714285714,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.14285714285714285,
+      "lawfirm": 0.0,
+      "individual": 0.2857142857142857
+    },
+    "APHIS-2018-0041": {
+      "industry": 0.25,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.25,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "APHIS-2018-0062": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "APHIS-2019-0001": {
+      "industry": 0.0625,
+      "labor": 0.0,
+      "advocacy": 0.125,
+      "expert": 0.375,
+      "gov": 0.03125,
+      "lawfirm": 0.0,
+      "individual": 0.40625
+    },
+    "APHIS-2020-0101": {
+      "industry": 0.2,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.8
+    },
+    "CDC-2019-0088": {
+      "industry": 0.08333333333333333,
+      "labor": 0.08333333333333333,
+      "advocacy": 0.16666666666666666,
+      "expert": 0.3333333333333333,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.3333333333333333
+    },
+    "CMS-2013-0266": {
+      "industry": 0.7142857142857143,
+      "labor": 0.0,
+      "advocacy": 0.09523809523809523,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.09523809523809523,
+      "individual": 0.09523809523809523
+    },
+    "CMS-2014-0132": {
+      "industry": 0.3333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.07407407407407407,
+      "expert": 0.1111111111111111,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.48148148148148145
+    },
+    "CMS-2016-0060": {
+      "industry": 0.23809523809523808,
+      "labor": 0.0,
+      "advocacy": 0.14285714285714285,
+      "expert": 0.38095238095238093,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.23809523809523808
+    },
+    "CMS-2016-0111": {
+      "industry": 0.6923076923076923,
+      "labor": 0.0,
+      "advocacy": 0.11538461538461539,
+      "expert": 0.11538461538461539,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.07692307692307693
+    },
+    "CMS-2016-0115": {
+      "industry": 0.5918367346938775,
+      "labor": 0.0,
+      "advocacy": 0.04081632653061224,
+      "expert": 0.16326530612244897,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.20408163265306123
+    },
+    "CMS-2016-0148": {
+      "industry": 0.4222222222222222,
+      "labor": 0.0,
+      "advocacy": 0.28888888888888886,
+      "expert": 0.13333333333333333,
+      "gov": 0.1111111111111111,
+      "lawfirm": 0.0,
+      "individual": 0.044444444444444446
+    },
+    "CMS-2017-0021": {
+      "industry": 0.033707865168539325,
+      "labor": 0.0,
+      "advocacy": 0.0898876404494382,
+      "expert": 0.011235955056179775,
+      "gov": 0.02247191011235955,
+      "lawfirm": 0.0,
+      "individual": 0.8426966292134831
+    },
+    "CMS-2017-0059": {
+      "industry": 0.5,
+      "labor": 0.0,
+      "advocacy": 0.09090909090909091,
+      "expert": 0.18181818181818182,
+      "gov": 0.045454545454545456,
+      "lawfirm": 0.0,
+      "individual": 0.18181818181818182
+    },
+    "CMS-2017-0082": {
+      "industry": 0.2375,
+      "labor": 0.0,
+      "advocacy": 0.1625,
+      "expert": 0.1875,
+      "gov": 0.0125,
+      "lawfirm": 0.0125,
+      "individual": 0.3875
+    },
+    "CMS-2017-0091": {
+      "industry": 0.7183098591549296,
+      "labor": 0.0,
+      "advocacy": 0.014084507042253521,
+      "expert": 0.09859154929577464,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.16901408450704225
+    },
+    "CMS-2017-0120": {
+      "industry": 0.6,
+      "labor": 0.0,
+      "advocacy": 0.24,
+      "expert": 0.12,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.04
+    },
+    "CMS-2017-0141": {
+      "industry": 0.17543859649122806,
+      "labor": 0.0,
+      "advocacy": 0.5087719298245614,
+      "expert": 0.17543859649122806,
+      "gov": 0.03508771929824561,
+      "lawfirm": 0.017543859649122806,
+      "individual": 0.08771929824561403
+    },
+    "CMS-2017-0156": {
+      "industry": 0.3114754098360656,
+      "labor": 0.0,
+      "advocacy": 0.18032786885245902,
+      "expert": 0.04918032786885246,
+      "gov": 0.08196721311475409,
+      "lawfirm": 0.01639344262295082,
+      "individual": 0.36065573770491804
+    },
+    "CMS-2018-0050": {
+      "industry": 0.7012987012987013,
+      "labor": 0.0,
+      "advocacy": 0.012987012987012988,
+      "expert": 0.1038961038961039,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.18181818181818182
+    },
+    "CMS-2018-0051": {
+      "industry": 0.2857142857142857,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.14285714285714285,
+      "gov": 0.14285714285714285,
+      "lawfirm": 0.0,
+      "individual": 0.42857142857142855
+    },
+    "CMS-2018-0058": {
+      "industry": 0.3333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.26666666666666666,
+      "expert": 0.2,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.2
+    },
+    "CMS-2018-0078": {
+      "industry": 0.2903225806451613,
+      "labor": 0.0,
+      "advocacy": 0.07258064516129033,
+      "expert": 0.12096774193548387,
+      "gov": 0.024193548387096774,
+      "lawfirm": 0.008064516129032258,
+      "individual": 0.4838709677419355
+    },
+    "CMS-2018-0082": {
+      "industry": 0.4406779661016949,
+      "labor": 0.0,
+      "advocacy": 0.0847457627118644,
+      "expert": 0.14124293785310735,
+      "gov": 0.0,
+      "lawfirm": 0.01694915254237288,
+      "individual": 0.3163841807909605
+    },
+    "CMS-2018-0110": {
+      "industry": 0.6666666666666666,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.3333333333333333,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "CMS-2018-0123": {
+      "industry": 0.27710843373493976,
+      "labor": 0.0,
+      "advocacy": 0.24096385542168675,
+      "expert": 0.1566265060240964,
+      "gov": 0.024096385542168676,
+      "lawfirm": 0.024096385542168676,
+      "individual": 0.27710843373493976
+    },
+    "CMS-2018-0132": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.045454545454545456,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.9545454545454546
+    },
+    "CMS-2018-0133": {
+      "industry": 0.5833333333333334,
+      "labor": 0.0,
+      "advocacy": 0.12962962962962962,
+      "expert": 0.06481481481481481,
+      "gov": 0.046296296296296294,
+      "lawfirm": 0.0,
+      "individual": 0.17592592592592593
+    },
+    "CMS-2019-0019": {
+      "industry": 0.14285714285714285,
+      "labor": 0.0,
+      "advocacy": 0.19047619047619047,
+      "expert": 0.19047619047619047,
+      "gov": 0.047619047619047616,
+      "lawfirm": 0.0,
+      "individual": 0.42857142857142855
+    },
+    "CMS-2019-0066": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.4,
+      "expert": 0.4,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.2
+    },
+    "CMS-2019-0067": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "CMS-2019-0068": {
+      "industry": 0.49019607843137253,
+      "labor": 0.0,
+      "advocacy": 0.39215686274509803,
+      "expert": 0.0,
+      "gov": 0.0196078431372549,
+      "lawfirm": 0.0,
+      "individual": 0.09803921568627451
+    },
+    "CMS-2019-0070": {
+      "industry": 0.3,
+      "labor": 0.0,
+      "advocacy": 0.1,
+      "expert": 0.2,
+      "gov": 0.1,
+      "lawfirm": 0.0,
+      "individual": 0.3
+    },
+    "CMS-2019-0076": {
+      "industry": 0.25,
+      "labor": 0.0,
+      "advocacy": 0.5,
+      "expert": 0.125,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.125
+    },
+    "CMS-2019-0090": {
+      "industry": 0.4878048780487805,
+      "labor": 0.0,
+      "advocacy": 0.0975609756097561,
+      "expert": 0.34146341463414637,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.07317073170731707
+    },
+    "CMS-2019-0187": {
+      "industry": 0.04316546762589928,
+      "labor": 0.0,
+      "advocacy": 0.19424460431654678,
+      "expert": 0.02877697841726619,
+      "gov": 0.02877697841726619,
+      "lawfirm": 0.0,
+      "individual": 0.7050359712230215
+    },
+    "CMS-2020-0011": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 1.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "CMS-2020-0035": {
+      "industry": 0.3333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.3333333333333333,
+      "lawfirm": 0.0,
+      "individual": 0.3333333333333333
+    },
+    "CMS-2020-0036": {
+      "industry": 0.42857142857142855,
+      "labor": 0.0,
+      "advocacy": 0.5714285714285714,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "CMS-2020-0039": {
+      "industry": 0.2,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.26666666666666666,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.5333333333333333
+    },
+    "CMS-2020-0052": {
+      "industry": 0.5333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.18333333333333332,
+      "expert": 0.16666666666666666,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.11666666666666667
+    },
+    "CMS-2020-0072": {
+      "industry": 0.31313131313131315,
+      "labor": 0.010101010101010102,
+      "advocacy": 0.3434343434343434,
+      "expert": 0.08080808080808081,
+      "gov": 0.04040404040404041,
+      "lawfirm": 0.0,
+      "individual": 0.21212121212121213
+    },
+    "CMS-2020-0077": {
+      "industry": 0.25,
+      "labor": 0.0,
+      "advocacy": 0.13095238095238096,
+      "expert": 0.15476190476190477,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.4642857142857143
+    },
+    "CMS-2020-0079": {
+      "industry": 0.39285714285714285,
+      "labor": 0.0,
+      "advocacy": 0.14285714285714285,
+      "expert": 0.25,
+      "gov": 0.03571428571428571,
+      "lawfirm": 0.0,
+      "individual": 0.17857142857142858
+    },
+    "CMS-2020-0127": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.25,
+      "gov": 0.25,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "CMS-2020-0128": {
+      "industry": 0.3157894736842105,
+      "labor": 0.0,
+      "advocacy": 0.21052631578947367,
+      "expert": 0.10526315789473684,
+      "gov": 0.0,
+      "lawfirm": 0.02631578947368421,
+      "individual": 0.34210526315789475
+    },
+    "CMS-2021-0060": {
+      "industry": 0.5,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.5,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "CMS-2021-0061": {
+      "industry": 0.375,
+      "labor": 0.0,
+      "advocacy": 0.4375,
+      "expert": 0.0,
+      "gov": 0.0625,
+      "lawfirm": 0.0,
+      "individual": 0.125
+    },
+    "CMS-2021-0062": {
+      "industry": 0.7142857142857143,
+      "labor": 0.0,
+      "advocacy": 0.14285714285714285,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.14285714285714285
+    },
+    "CMS-2021-0167": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.25,
+      "lawfirm": 0.0,
+      "individual": 0.75
+    },
+    "CMS-2022-0012": {
+      "industry": 0.48148148148148145,
+      "labor": 0.0,
+      "advocacy": 0.14814814814814814,
+      "expert": 0.0,
+      "gov": 0.07407407407407407,
+      "lawfirm": 0.0,
+      "individual": 0.2962962962962963
+    },
+    "CMS-2022-0060": {
+      "industry": 0.4444444444444444,
+      "labor": 0.0,
+      "advocacy": 0.3333333333333333,
+      "expert": 0.05555555555555555,
+      "gov": 0.05555555555555555,
+      "lawfirm": 0.0,
+      "individual": 0.1111111111111111
+    },
+    "CMS-2022-0061": {
+      "industry": 0.7727272727272727,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.13636363636363635,
+      "gov": 0.045454545454545456,
+      "lawfirm": 0.0,
+      "individual": 0.045454545454545456
+    },
+    "CMS-2022-0062": {
+      "industry": 0.6666666666666666,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.3333333333333333,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "CMS-2022-0069": {
+      "industry": 0.6153846153846154,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.07692307692307693,
+      "lawfirm": 0.0,
+      "individual": 0.3076923076923077
+    },
+    "CMS-2022-0109": {
+      "industry": 0.19642857142857142,
+      "labor": 0.0,
+      "advocacy": 0.03571428571428571,
+      "expert": 0.017857142857142856,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.75
+    },
+    "CMS-2022-0110": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 1.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "CMS-2022-0119": {
+      "industry": 0.031578947368421054,
+      "labor": 0.0,
+      "advocacy": 0.010526315789473684,
+      "expert": 0.05263157894736842,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.9052631578947369
+    },
+    "CMS-2022-0191": {
+      "industry": 0.5,
+      "labor": 0.0,
+      "advocacy": 0.14583333333333334,
+      "expert": 0.0625,
+      "gov": 0.020833333333333332,
+      "lawfirm": 0.0,
+      "individual": 0.2708333333333333
+    },
+    "CMS-2022-0192": {
+      "industry": 0.4166666666666667,
+      "labor": 0.020833333333333332,
+      "advocacy": 0.2708333333333333,
+      "expert": 0.14583333333333334,
+      "gov": 0.0625,
+      "lawfirm": 0.0,
+      "individual": 0.08333333333333333
+    },
+    "CMS-2023-0031": {
+      "industry": 0.14634146341463414,
+      "labor": 0.07317073170731707,
+      "advocacy": 0.34146341463414637,
+      "expert": 0.17073170731707318,
+      "gov": 0.12195121951219512,
+      "lawfirm": 0.0,
+      "individual": 0.14634146341463414
+    },
+    "CMS-2023-0047": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "CMS-2023-0048": {
+      "industry": 0.3076923076923077,
+      "labor": 0.0,
+      "advocacy": 0.38461538461538464,
+      "expert": 0.23076923076923078,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.07692307692307693
+    },
+    "CMS-2023-0051": {
+      "industry": 0.46153846153846156,
+      "labor": 0.0,
+      "advocacy": 0.23076923076923078,
+      "expert": 0.07692307692307693,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.23076923076923078
+    },
+    "CMS-2023-0053": {
+      "industry": 0.45454545454545453,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.18181818181818182,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.36363636363636365
+    },
+    "CMS-2023-0115": {
+      "industry": 0.803030303030303,
+      "labor": 0.0,
+      "advocacy": 0.07575757575757576,
+      "expert": 0.07575757575757576,
+      "gov": 0.015151515151515152,
+      "lawfirm": 0.0,
+      "individual": 0.030303030303030304
+    },
+    "CMS-2023-0201": {
+      "industry": 0.3333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.4,
+      "expert": 0.13333333333333333,
+      "gov": 0.06666666666666667,
+      "lawfirm": 0.0,
+      "individual": 0.06666666666666667
+    },
+    "CMS-2024-0131": {
+      "industry": 0.2,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.8
+    },
+    "CMS-2025-0306": {
+      "industry": 0.36363636363636365,
+      "labor": 0.0,
+      "advocacy": 0.16363636363636364,
+      "expert": 0.2,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.2727272727272727
+    },
+    "DHS-2017-0006": {
+      "industry": 0.35714285714285715,
+      "labor": 0.0,
+      "advocacy": 0.2857142857142857,
+      "expert": 0.14285714285714285,
+      "gov": 0.0,
+      "lawfirm": 0.07142857142857142,
+      "individual": 0.14285714285714285
+    },
+    "DHS-2019-0049": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.16,
+      "expert": 0.0,
+      "gov": 0.02,
+      "lawfirm": 0.0,
+      "individual": 0.82
+    },
+    "DHS-2021-0020": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "DOE-HQ-2019-0003": {
+      "industry": 0.6666666666666666,
+      "labor": 0.0,
+      "advocacy": 0.3333333333333333,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "DOE-HQ-2019-0037": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "DOE-HQ-2020-0017": {
+      "industry": 0.2727272727272727,
+      "labor": 0.0,
+      "advocacy": 0.6363636363636364,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.09090909090909091
+    },
+    "DOE-HQ-2020-0033": {
+      "industry": 0.8,
+      "labor": 0.0,
+      "advocacy": 0.2,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "ED-2020-OPEPD-0096": {
+      "industry": 0.1111111111111111,
+      "labor": 0.0,
+      "advocacy": 0.4444444444444444,
+      "expert": 0.1111111111111111,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.3333333333333333
+    },
+    "EPA-HQ-OA-2018-0259": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.2222222222222222,
+      "expert": 0.05555555555555555,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.7222222222222222
+    },
+    "EPA-HQ-OA-2020-0128": {
+      "industry": 0.5227272727272727,
+      "labor": 0.0,
+      "advocacy": 0.13636363636363635,
+      "expert": 0.0,
+      "gov": 0.13636363636363635,
+      "lawfirm": 0.022727272727272728,
+      "individual": 0.18181818181818182
+    },
+    "EPA-HQ-OAR-2002-0058": {
+      "industry": 0.7142857142857143,
+      "labor": 0.0,
+      "advocacy": 0.14285714285714285,
+      "expert": 0.0,
+      "gov": 0.14285714285714285,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OAR-2004-0309": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OAR-2010-0505": {
+      "industry": 0.046153846153846156,
+      "labor": 0.0,
+      "advocacy": 0.2,
+      "expert": 0.0,
+      "gov": 0.03076923076923077,
+      "lawfirm": 0.0,
+      "individual": 0.7230769230769231
+    },
+    "EPA-HQ-OAR-2010-0682": {
+      "industry": 0.043478260869565216,
+      "labor": 0.0,
+      "advocacy": 0.2608695652173913,
+      "expert": 0.0,
+      "gov": 0.043478260869565216,
+      "lawfirm": 0.0,
+      "individual": 0.6521739130434783
+    },
+    "EPA-HQ-OAR-2012-0133": {
+      "industry": 0.6666666666666666,
+      "labor": 0.0,
+      "advocacy": 0.3333333333333333,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OAR-2013-0495": {
+      "industry": 0.23809523809523808,
+      "labor": 0.0,
+      "advocacy": 0.3968253968253968,
+      "expert": 0.031746031746031744,
+      "gov": 0.1111111111111111,
+      "lawfirm": 0.0,
+      "individual": 0.2222222222222222
+    },
+    "EPA-HQ-OAR-2013-0597": {
+      "industry": 0.6,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.4
+    },
+    "EPA-HQ-OAR-2014-0827": {
+      "industry": 0.027972027972027972,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.013986013986013986,
+      "lawfirm": 0.006993006993006993,
+      "individual": 0.951048951048951
+    },
+    "EPA-HQ-OAR-2016-0442": {
+      "industry": 0.25,
+      "labor": 0.0,
+      "advocacy": 0.25,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "EPA-HQ-OAR-2016-0510": {
+      "industry": 0.3125,
+      "labor": 0.0,
+      "advocacy": 0.1875,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0625,
+      "individual": 0.4375
+    },
+    "EPA-HQ-OAR-2016-0678": {
+      "industry": 0.5,
+      "labor": 0.0,
+      "advocacy": 0.5,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OAR-2017-0015": {
+      "industry": 0.8333333333333334,
+      "labor": 0.0,
+      "advocacy": 0.05555555555555555,
+      "expert": 0.0,
+      "gov": 0.05555555555555555,
+      "lawfirm": 0.0,
+      "individual": 0.05555555555555555
+    },
+    "EPA-HQ-OAR-2017-0091": {
+      "industry": 0.1111111111111111,
+      "labor": 0.0,
+      "advocacy": 0.022222222222222223,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.8666666666666667
+    },
+    "EPA-HQ-OAR-2017-0355": {
+      "industry": 0.030303030303030304,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.9696969696969697
+    },
+    "EPA-HQ-OAR-2017-0357": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OAR-2017-0548": {
+      "industry": 0.2553191489361702,
+      "labor": 0.0,
+      "advocacy": 0.2127659574468085,
+      "expert": 0.010638297872340425,
+      "gov": 0.3617021276595745,
+      "lawfirm": 0.010638297872340425,
+      "individual": 0.14893617021276595
+    },
+    "EPA-HQ-OAR-2017-0629": {
+      "industry": 0.38095238095238093,
+      "labor": 0.0,
+      "advocacy": 0.09523809523809523,
+      "expert": 0.0,
+      "gov": 0.09523809523809523,
+      "lawfirm": 0.0,
+      "individual": 0.42857142857142855
+    },
+    "EPA-HQ-OAR-2017-0662": {
+      "industry": 0.5,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "EPA-HQ-OAR-2017-0664": {
+      "industry": 0.1111111111111111,
+      "labor": 0.0,
+      "advocacy": 0.2222222222222222,
+      "expert": 0.0,
+      "gov": 0.4444444444444444,
+      "lawfirm": 0.0,
+      "individual": 0.2222222222222222
+    },
+    "EPA-HQ-OAR-2017-0688": {
+      "industry": 0.7272727272727273,
+      "labor": 0.0,
+      "advocacy": 0.18181818181818182,
+      "expert": 0.0,
+      "gov": 0.09090909090909091,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OAR-2017-0757": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.041666666666666664,
+      "expert": 0.041666666666666664,
+      "gov": 0.041666666666666664,
+      "lawfirm": 0.0,
+      "individual": 0.875
+    },
+    "EPA-HQ-OAR-2018-0074": {
+      "industry": 0.75,
+      "labor": 0.0,
+      "advocacy": 0.25,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OAR-2018-0167": {
+      "industry": 0.3783783783783784,
+      "labor": 0.02702702702702703,
+      "advocacy": 0.05405405405405406,
+      "expert": 0.02702702702702703,
+      "gov": 0.02702702702702703,
+      "lawfirm": 0.0,
+      "individual": 0.4864864864864865
+    },
+    "EPA-HQ-OAR-2018-0195": {
+      "industry": 0.5851063829787234,
+      "labor": 0.0,
+      "advocacy": 0.07446808510638298,
+      "expert": 0.0,
+      "gov": 0.13829787234042554,
+      "lawfirm": 0.0,
+      "individual": 0.20212765957446807
+    },
+    "EPA-HQ-OAR-2018-0227": {
+      "industry": 0.7586206896551724,
+      "labor": 0.0,
+      "advocacy": 0.20689655172413793,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.034482758620689655,
+      "individual": 0.0
+    },
+    "EPA-HQ-OAR-2018-0276": {
+      "industry": 0.5806451612903226,
+      "labor": 0.0,
+      "advocacy": 0.2903225806451613,
+      "expert": 0.0,
+      "gov": 0.03225806451612903,
+      "lawfirm": 0.0,
+      "individual": 0.0967741935483871
+    },
+    "EPA-HQ-OAR-2018-0416": {
+      "industry": 0.6666666666666666,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.16666666666666666,
+      "lawfirm": 0.0,
+      "individual": 0.16666666666666666
+    },
+    "EPA-HQ-OAR-2018-0417": {
+      "industry": 0.2,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.2,
+      "lawfirm": 0.0,
+      "individual": 0.6
+    },
+    "EPA-HQ-OAR-2018-0595": {
+      "industry": 0.3125,
+      "labor": 0.0,
+      "advocacy": 0.1875,
+      "expert": 0.0625,
+      "gov": 0.4375,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OAR-2018-0638": {
+      "industry": 0.8235294117647058,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.058823529411764705,
+      "lawfirm": 0.058823529411764705,
+      "individual": 0.058823529411764705
+    },
+    "EPA-HQ-OAR-2018-0794": {
+      "industry": 0.025,
+      "labor": 0.0,
+      "advocacy": 0.0625,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.9125
+    },
+    "EPA-HQ-OAR-2018-0815": {
+      "industry": 0.625,
+      "labor": 0.0,
+      "advocacy": 0.125,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.25
+    },
+    "EPA-HQ-OAR-2019-0055": {
+      "industry": 0.1095890410958904,
+      "labor": 0.0,
+      "advocacy": 0.0684931506849315,
+      "expert": 0.0,
+      "gov": 0.136986301369863,
+      "lawfirm": 0.0,
+      "individual": 0.684931506849315
+    },
+    "EPA-HQ-OAR-2019-0208": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OAR-2019-0312": {
+      "industry": 0.75,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.25,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OAR-2019-0373": {
+      "industry": 0.16666666666666666,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.8333333333333334
+    },
+    "EPA-HQ-OAR-2019-0392": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OAR-2019-0698": {
+      "industry": 0.9444444444444444,
+      "labor": 0.0,
+      "advocacy": 0.05555555555555555,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OAR-2020-0044": {
+      "industry": 0.25806451612903225,
+      "labor": 0.0,
+      "advocacy": 0.15053763440860216,
+      "expert": 0.0967741935483871,
+      "gov": 0.16129032258064516,
+      "lawfirm": 0.021505376344086023,
+      "individual": 0.3118279569892473
+    },
+    "EPA-HQ-OAR-2020-0272": {
+      "industry": 0.7142857142857143,
+      "labor": 0.0,
+      "advocacy": 0.14285714285714285,
+      "expert": 0.0,
+      "gov": 0.14285714285714285,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OAR-2020-0725": {
+      "industry": 0.7857142857142857,
+      "labor": 0.0,
+      "advocacy": 0.14285714285714285,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.07142857142857142
+    },
+    "EPA-HQ-OAR-2021-0208": {
+      "industry": 0.3333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.25,
+      "expert": 0.0,
+      "gov": 0.20833333333333334,
+      "lawfirm": 0.0,
+      "individual": 0.20833333333333334
+    },
+    "EPA-HQ-OAR-2021-0427": {
+      "industry": 0.8,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.2,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OAR-2021-0527": {
+      "industry": 0.3333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.1388888888888889,
+      "expert": 0.0,
+      "gov": 0.5277777777777778,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OAR-2021-0619": {
+      "industry": 0.5,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "EPA-HQ-OAR-2021-0668": {
+      "industry": 0.3157894736842105,
+      "labor": 0.02631578947368421,
+      "advocacy": 0.21052631578947367,
+      "expert": 0.07894736842105263,
+      "gov": 0.13157894736842105,
+      "lawfirm": 0.0,
+      "individual": 0.23684210526315788
+    },
+    "EPA-HQ-OAR-2021-0793": {
+      "industry": 0.9230769230769231,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.07692307692307693,
+      "individual": 0.0
+    },
+    "EPA-HQ-OAR-2022-0430": {
+      "industry": 0.8043478260869565,
+      "labor": 0.0,
+      "advocacy": 0.06521739130434782,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.13043478260869565
+    },
+    "EPA-HQ-OARM-2015-0657": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.16666666666666666,
+      "expert": 0.16666666666666666,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.6666666666666666
+    },
+    "EPA-HQ-OARM-2018-0743": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "EPA-HQ-OECA-2019-0408": {
+      "industry": 0.125,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.875,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OEM-2015-0725": {
+      "industry": 0.19879518072289157,
+      "labor": 0.006024096385542169,
+      "advocacy": 0.1144578313253012,
+      "expert": 0.04216867469879518,
+      "gov": 0.04216867469879518,
+      "lawfirm": 0.0,
+      "individual": 0.5963855421686747
+    },
+    "EPA-HQ-OLEM-2017-0603": {
+      "industry": 0.2,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.4,
+      "lawfirm": 0.0,
+      "individual": 0.4
+    },
+    "EPA-HQ-OLEM-2017-0610": {
+      "industry": 0.5,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.5,
+      "individual": 0.0
+    },
+    "EPA-HQ-OLEM-2018-0253": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OLEM-2019-0172": {
+      "industry": 0.1744186046511628,
+      "labor": 0.0,
+      "advocacy": 0.11627906976744186,
+      "expert": 0.011627906976744186,
+      "gov": 0.023255813953488372,
+      "lawfirm": 0.0,
+      "individual": 0.6744186046511628
+    },
+    "EPA-HQ-OLEM-2019-0173": {
+      "industry": 0.32,
+      "labor": 0.0,
+      "advocacy": 0.32,
+      "expert": 0.0,
+      "gov": 0.2,
+      "lawfirm": 0.04,
+      "individual": 0.12
+    },
+    "EPA-HQ-OLEM-2021-0454": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "EPA-HQ-OLEM-2021-0460": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "EPA-HQ-OLEM-2021-0462": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.42857142857142855,
+      "lawfirm": 0.0,
+      "individual": 0.5714285714285714
+    },
+    "EPA-HQ-OLEM-2021-0556": {
+      "industry": 0.8461538461538461,
+      "labor": 0.0,
+      "advocacy": 0.07692307692307693,
+      "expert": 0.0,
+      "gov": 0.07692307692307693,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OPP-2006-0766": {
+      "industry": 0.4444444444444444,
+      "labor": 0.0,
+      "advocacy": 0.1111111111111111,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.4444444444444444
+    },
+    "EPA-HQ-OPP-2017-0543": {
+      "industry": 0.10909090909090909,
+      "labor": 0.01818181818181818,
+      "advocacy": 0.2,
+      "expert": 0.03636363636363636,
+      "gov": 0.01818181818181818,
+      "lawfirm": 0.0,
+      "individual": 0.6181818181818182
+    },
+    "EPA-HQ-OPP-2019-0508": {
+      "industry": 0.5789473684210527,
+      "labor": 0.0,
+      "advocacy": 0.21052631578947367,
+      "expert": 0.05263157894736842,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.15789473684210525
+    },
+    "EPA-HQ-OPP-2019-0701": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.5,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "EPA-HQ-OPP-2020-0124": {
+      "industry": 0.7,
+      "labor": 0.0,
+      "advocacy": 0.1,
+      "expert": 0.1,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.1
+    },
+    "EPA-HQ-OPPT-2016-0231": {
+      "industry": 0.13333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.10476190476190476,
+      "expert": 0.009523809523809525,
+      "gov": 0.01904761904761905,
+      "lawfirm": 0.0,
+      "individual": 0.7333333333333333
+    },
+    "EPA-HQ-OPPT-2016-0426": {
+      "industry": 0.9142857142857143,
+      "labor": 0.0,
+      "advocacy": 0.05714285714285714,
+      "expert": 0.0,
+      "gov": 0.02857142857142857,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OPPT-2016-0636": {
+      "industry": 0.5581395348837209,
+      "labor": 0.023255813953488372,
+      "advocacy": 0.23255813953488372,
+      "expert": 0.046511627906976744,
+      "gov": 0.09302325581395349,
+      "lawfirm": 0.0,
+      "individual": 0.046511627906976744
+    },
+    "EPA-HQ-OPPT-2017-0414": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 1.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OPPT-2017-0421": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.058823529411764705,
+      "expert": 0.0,
+      "gov": 0.058823529411764705,
+      "lawfirm": 0.0,
+      "individual": 0.8823529411764706
+    },
+    "EPA-HQ-OPPT-2018-0174": {
+      "industry": 0.6153846153846154,
+      "labor": 0.0,
+      "advocacy": 0.15384615384615385,
+      "expert": 0.0,
+      "gov": 0.07692307692307693,
+      "lawfirm": 0.0,
+      "individual": 0.15384615384615385
+    },
+    "EPA-HQ-OPPT-2018-0320": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-HQ-OPPT-2018-0321": {
+      "industry": 0.8,
+      "labor": 0.0,
+      "advocacy": 0.13333333333333333,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.06666666666666667
+    },
+    "EPA-HQ-OPPT-2018-0567": {
+      "industry": 0.16666666666666666,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.16666666666666666,
+      "gov": 0.0,
+      "lawfirm": 0.16666666666666666,
+      "individual": 0.5
+    },
+    "EPA-HQ-OPPT-2018-0772": {
+      "industry": 0.2,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.8
+    },
+    "EPA-HQ-OPPT-2019-0080": {
+      "industry": 0.5833333333333334,
+      "labor": 0.0,
+      "advocacy": 0.16666666666666666,
+      "expert": 0.041666666666666664,
+      "gov": 0.0,
+      "lawfirm": 0.08333333333333333,
+      "individual": 0.125
+    },
+    "EPA-HQ-OPPT-2020-0303": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.3333333333333333,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.6666666666666666
+    },
+    "EPA-HQ-OPPT-2020-0304": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "EPA-HQ-OPPT-2020-0411": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.5,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "EPA-HQ-OPPT-2020-0549": {
+      "industry": 0.3798076923076923,
+      "labor": 0.0,
+      "advocacy": 0.1971153846153846,
+      "expert": 0.009615384615384616,
+      "gov": 0.03365384615384615,
+      "lawfirm": 0.014423076923076924,
+      "individual": 0.36538461538461536
+    },
+    "EPA-HQ-OPPT-2021-0419": {
+      "industry": 0.46153846153846156,
+      "labor": 0.0,
+      "advocacy": 0.3076923076923077,
+      "expert": 0.07692307692307693,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.15384615384615385
+    },
+    "EPA-HQ-OW-2013-0280": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.3333333333333333,
+      "expert": 0.3333333333333333,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.3333333333333333
+    },
+    "EPA-HQ-OW-2015-0174": {
+      "industry": 0.5,
+      "labor": 0.0,
+      "advocacy": 0.25,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.25
+    },
+    "EPA-HQ-OW-2015-0680": {
+      "industry": 0.3684210526315789,
+      "labor": 0.0,
+      "advocacy": 0.06578947368421052,
+      "expert": 0.013157894736842105,
+      "gov": 0.06578947368421052,
+      "lawfirm": 0.0,
+      "individual": 0.4868421052631579
+    },
+    "EPA-HQ-OW-2016-0376": {
+      "industry": 0.13157894736842105,
+      "labor": 0.0,
+      "advocacy": 0.3157894736842105,
+      "expert": 0.0,
+      "gov": 0.39473684210526316,
+      "lawfirm": 0.0,
+      "individual": 0.15789473684210525
+    },
+    "EPA-HQ-OW-2016-0694": {
+      "industry": 0.4,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.4,
+      "lawfirm": 0.0,
+      "individual": 0.2
+    },
+    "EPA-HQ-OW-2017-0203": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.08333333333333333,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.9166666666666666
+    },
+    "EPA-HQ-OW-2017-0300": {
+      "industry": 0.14666666666666667,
+      "labor": 0.0,
+      "advocacy": 0.07333333333333333,
+      "expert": 0.04,
+      "gov": 0.2733333333333333,
+      "lawfirm": 0.0,
+      "individual": 0.4666666666666667
+    },
+    "EPA-HQ-OW-2018-0149": {
+      "industry": 0.2727272727272727,
+      "labor": 0.0,
+      "advocacy": 0.2727272727272727,
+      "expert": 0.09090909090909091,
+      "gov": 0.18181818181818182,
+      "lawfirm": 0.0,
+      "individual": 0.18181818181818182
+    },
+    "EPA-HQ-OW-2018-0826": {
+      "industry": 0.16666666666666666,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.16666666666666666,
+      "lawfirm": 0.0,
+      "individual": 0.6666666666666666
+    },
+    "EPA-HQ-OW-2019-0405": {
+      "industry": 0.14814814814814814,
+      "labor": 0.0,
+      "advocacy": 0.25925925925925924,
+      "expert": 0.0,
+      "gov": 0.2222222222222222,
+      "lawfirm": 0.0,
+      "individual": 0.37037037037037035
+    },
+    "EPA-HQ-OW-2019-0583": {
+      "industry": 0.2857142857142857,
+      "labor": 0.0,
+      "advocacy": 0.3333333333333333,
+      "expert": 0.0,
+      "gov": 0.2857142857142857,
+      "lawfirm": 0.0,
+      "individual": 0.09523809523809523
+    },
+    "EPA-HQ-OW-2021-0602": {
+      "industry": 0.40217391304347827,
+      "labor": 0.0,
+      "advocacy": 0.21739130434782608,
+      "expert": 0.03260869565217391,
+      "gov": 0.1956521739130435,
+      "lawfirm": 0.0,
+      "individual": 0.15217391304347827
+    },
+    "EPA-HQ-SFUND-1986-0005": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.5,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "EPA-HQ-SFUND-2002-0001": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "EPA-HQ-TRI-2016-0390": {
+      "industry": 0.3333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.6666666666666666
+    },
+    "EPA-R03-OAR-2019-0657": {
+      "industry": 0.3333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.3333333333333333,
+      "lawfirm": 0.0,
+      "individual": 0.3333333333333333
+    },
+    "EPA-R03-OAR-2020-0157": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.5,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "EPA-R05-OAR-2007-1092": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 1.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-R05-OAR-2018-0035": {
+      "industry": 0.6666666666666666,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.16666666666666666,
+      "gov": 0.16666666666666666,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-R05-OAR-2019-0557": {
+      "industry": 0.6666666666666666,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.3333333333333333,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-R05-OAR-2021-0536": {
+      "industry": 0.25,
+      "labor": 0.0,
+      "advocacy": 0.25,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "EPA-R06-OAR-2015-0189": {
+      "industry": 0.5,
+      "labor": 0.0,
+      "advocacy": 0.5,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-R06-RCRA-2017-0556": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.3333333333333333,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.6666666666666666
+    },
+    "EPA-R08-OAR-2015-0709": {
+      "industry": 0.4,
+      "labor": 0.0,
+      "advocacy": 0.2,
+      "expert": 0.0,
+      "gov": 0.4,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-R08-OAR-2017-0062": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-R08-OAR-2019-0354": {
+      "industry": 0.09090909090909091,
+      "labor": 0.0,
+      "advocacy": 0.030303030303030304,
+      "expert": 0.0,
+      "gov": 0.030303030303030304,
+      "lawfirm": 0.0,
+      "individual": 0.8484848484848485
+    },
+    "EPA-R08-OAR-2020-0742": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.25,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.75
+    },
+    "EPA-R09-OAR-2018-0535": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 1.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "EPA-R10-RCRA-2018-0298": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.5,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "FAA-2010-0997": {
+      "industry": 0.14285714285714285,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.8571428571428571,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2016-3697": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2016-4219": {
+      "industry": 0.8,
+      "labor": 0.2,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2016-9067": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2016-9074": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2016-9189": {
+      "industry": 0.5,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.25,
+      "lawfirm": 0.0,
+      "individual": 0.25
+    },
+    "FAA-2016-9378": {
+      "industry": 0.25,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.75
+    },
+    "FAA-2016-9392": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2016-9405": {
+      "industry": 0.6666666666666666,
+      "labor": 0.3333333333333333,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2016-9479": {
+      "industry": 0.125,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.875
+    },
+    "FAA-2016-9495": {
+      "industry": 0.11428571428571428,
+      "labor": 0.0,
+      "advocacy": 0.08571428571428572,
+      "expert": 0.05714285714285714,
+      "gov": 0.02857142857142857,
+      "lawfirm": 0.0,
+      "individual": 0.7142857142857143
+    },
+    "FAA-2016-9520": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2016-9536": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.2,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.8
+    },
+    "FAA-2016-9592": {
+      "industry": 0.5,
+      "labor": 0.16666666666666666,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.16666666666666666,
+      "lawfirm": 0.0,
+      "individual": 0.16666666666666666
+    },
+    "FAA-2017-0021": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-0127": {
+      "industry": 0.8571428571428571,
+      "labor": 0.07142857142857142,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.07142857142857142
+    },
+    "FAA-2017-0141": {
+      "industry": 0.23809523809523808,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.7619047619047619
+    },
+    "FAA-2017-0246": {
+      "industry": 0.5,
+      "labor": 0.5,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-0288": {
+      "industry": 0.16666666666666666,
+      "labor": 0.0,
+      "advocacy": 0.16666666666666666,
+      "expert": 0.0,
+      "gov": 0.16666666666666666,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "FAA-2017-0332": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-0340": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-0490": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "FAA-2017-0519": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-0527": {
+      "industry": 0.75,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-0553": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-0630": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-0659": {
+      "industry": 0.6666666666666666,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.3333333333333333
+    },
+    "FAA-2017-0660": {
+      "industry": 0.75,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-0711": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-0771": {
+      "industry": 0.6666666666666666,
+      "labor": 0.3333333333333333,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-0779": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-0782": {
+      "industry": 0.3333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.6666666666666666
+    },
+    "FAA-2017-0792": {
+      "industry": 0.75,
+      "labor": 0.125,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.125,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-0806": {
+      "industry": 0.8,
+      "labor": 0.2,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-0814": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-0817": {
+      "industry": 0.875,
+      "labor": 0.125,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-0904": {
+      "industry": 0.75,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-0905": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-0967": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-1024": {
+      "industry": 0.7,
+      "labor": 0.2,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.1
+    },
+    "FAA-2017-1059": {
+      "industry": 0.0425531914893617,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.9574468085106383
+    },
+    "FAA-2017-1091": {
+      "industry": 0.3,
+      "labor": 0.0,
+      "advocacy": 0.1,
+      "expert": 0.1,
+      "gov": 0.3,
+      "lawfirm": 0.0,
+      "individual": 0.2
+    },
+    "FAA-2017-1106": {
+      "industry": 0.02127659574468085,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.9787234042553191
+    },
+    "FAA-2017-1107": {
+      "industry": 0.8,
+      "labor": 0.2,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-1118": {
+      "industry": 0.75,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.25
+    },
+    "FAA-2017-1206": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2017-1241": {
+      "industry": 0.8,
+      "labor": 0.2,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-0003": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "FAA-2018-0027": {
+      "industry": 0.5,
+      "labor": 0.5,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-0073": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-0077": {
+      "industry": 0.75,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-0110": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-0162": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-0163": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-0393": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-0406": {
+      "industry": 0.8,
+      "labor": 0.2,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-0408": {
+      "industry": 0.75,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-0409": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-0495": {
+      "industry": 0.8,
+      "labor": 0.2,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-0556": {
+      "industry": 0.5,
+      "labor": 0.5,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-0634": {
+      "industry": 0.6666666666666666,
+      "labor": 0.3333333333333333,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-0653": {
+      "industry": 0.4,
+      "labor": 0.2,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.2,
+      "lawfirm": 0.0,
+      "individual": 0.2
+    },
+    "FAA-2018-0708": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-0711": {
+      "industry": 0.75,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-0763": {
+      "industry": 0.6666666666666666,
+      "labor": 0.3333333333333333,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-0794": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-0826": {
+      "industry": 0.3333333333333333,
+      "labor": 0.3333333333333333,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.3333333333333333,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-0866": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.5,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "FAA-2018-0899": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-0977": {
+      "industry": 0.5,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.25
+    },
+    "FAA-2018-1011": {
+      "industry": 0.8333333333333334,
+      "labor": 0.16666666666666666,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-1012": {
+      "industry": 0.8333333333333334,
+      "labor": 0.16666666666666666,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2018-1046": {
+      "industry": 0.09615384615384616,
+      "labor": 0.0,
+      "advocacy": 0.019230769230769232,
+      "expert": 0.019230769230769232,
+      "gov": 0.028846153846153848,
+      "lawfirm": 0.0,
+      "individual": 0.8365384615384616
+    },
+    "FAA-2018-1077": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.5,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "FAA-2019-0023": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2019-0188": {
+      "industry": 0.75,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.25
+    },
+    "FAA-2019-0193": {
+      "industry": 0.5,
+      "labor": 0.5,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2019-0194": {
+      "industry": 0.5,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "FAA-2019-0207": {
+      "industry": 0.6666666666666666,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.3333333333333333
+    },
+    "FAA-2019-0218": {
+      "industry": 0.4,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.2,
+      "gov": 0.2,
+      "lawfirm": 0.0,
+      "individual": 0.2
+    },
+    "FAA-2019-0229": {
+      "industry": 0.5294117647058824,
+      "labor": 0.0196078431372549,
+      "advocacy": 0.0784313725490196,
+      "expert": 0.0196078431372549,
+      "gov": 0.0784313725490196,
+      "lawfirm": 0.0,
+      "individual": 0.27450980392156865
+    },
+    "FAA-2019-0252": {
+      "industry": 0.75,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2019-0318": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2019-0399": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2019-0425": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2019-0437": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2019-0438": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2019-0451": {
+      "industry": 0.05660377358490566,
+      "labor": 0.0,
+      "advocacy": 0.05660377358490566,
+      "expert": 0.018867924528301886,
+      "gov": 0.018867924528301886,
+      "lawfirm": 0.0,
+      "individual": 0.8490566037735849
+    },
+    "FAA-2019-0478": {
+      "industry": 0.5,
+      "labor": 0.5,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2019-0480": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2019-0525": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2019-0568": {
+      "industry": 0.7142857142857143,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.2857142857142857
+    },
+    "FAA-2019-0592": {
+      "industry": 0.7142857142857143,
+      "labor": 0.14285714285714285,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.14285714285714285
+    },
+    "FAA-2019-0597": {
+      "industry": 0.5,
+      "labor": 0.5,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2019-0605": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2019-0701": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2019-0705": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2019-0759": {
+      "industry": 0.5,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "FAA-2019-0859": {
+      "industry": 0.5,
+      "labor": 0.5,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2019-0906": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "FAA-2019-0919": {
+      "industry": 0.3333333333333333,
+      "labor": 0.3333333333333333,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.3333333333333333
+    },
+    "FAA-2019-0984": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2019-1070": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2019-1071": {
+      "industry": 0.6666666666666666,
+      "labor": 0.16666666666666666,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.16666666666666666
+    },
+    "FAA-2019-1093": {
+      "industry": 0.3333333333333333,
+      "labor": 0.3333333333333333,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.3333333333333333
+    },
+    "FAA-2020-0091": {
+      "industry": 0.5714285714285714,
+      "labor": 0.14285714285714285,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.2857142857142857
+    },
+    "FAA-2020-0094": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0097": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "FAA-2020-0103": {
+      "industry": 0.6666666666666666,
+      "labor": 0.3333333333333333,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0209": {
+      "industry": 0.6666666666666666,
+      "labor": 0.3333333333333333,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0211": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0320": {
+      "industry": 0.5,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.25,
+      "lawfirm": 0.0,
+      "individual": 0.25
+    },
+    "FAA-2020-0331": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0333": {
+      "industry": 0.8,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.2
+    },
+    "FAA-2020-0341": {
+      "industry": 0.8571428571428571,
+      "labor": 0.14285714285714285,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0343": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0345": {
+      "industry": 0.5,
+      "labor": 0.5,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0442": {
+      "industry": 0.6666666666666666,
+      "labor": 0.3333333333333333,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0443": {
+      "industry": 0.6666666666666666,
+      "labor": 0.3333333333333333,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0472": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "FAA-2020-0557": {
+      "industry": 0.5,
+      "labor": 0.5,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0580": {
+      "industry": 0.8,
+      "labor": 0.2,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0592": {
+      "industry": 0.8,
+      "labor": 0.2,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0653": {
+      "industry": 0.75,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0686": {
+      "industry": 0.19047619047619047,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.047619047619047616,
+      "lawfirm": 0.0,
+      "individual": 0.7619047619047619
+    },
+    "FAA-2020-0692": {
+      "industry": 0.3333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.6666666666666666
+    },
+    "FAA-2020-0700": {
+      "industry": 0.75,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0755": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "FAA-2020-0785": {
+      "industry": 0.5,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.25
+    },
+    "FAA-2020-0789": {
+      "industry": 0.8571428571428571,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.14285714285714285
+    },
+    "FAA-2020-0848": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0850": {
+      "industry": 0.75,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0894": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0896": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.14285714285714285,
+      "lawfirm": 0.0,
+      "individual": 0.8571428571428571
+    },
+    "FAA-2020-0903": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0904": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "FAA-2020-0915": {
+      "industry": 0.5,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.25,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0981": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-0991": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-1022": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-1086": {
+      "industry": 0.2,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.06666666666666667,
+      "lawfirm": 0.0,
+      "individual": 0.7333333333333333
+    },
+    "FAA-2020-1120": {
+      "industry": 0.75,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.25
+    },
+    "FAA-2020-1140": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2020-1166": {
+      "industry": 0.3333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.6666666666666666
+    },
+    "FAA-2020-1179": {
+      "industry": 0.8,
+      "labor": 0.2,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2021-0099": {
+      "industry": 0.8571428571428571,
+      "labor": 0.14285714285714285,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2021-0102": {
+      "industry": 0.75,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2021-0134": {
+      "industry": 0.75,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2021-0189": {
+      "industry": 0.3333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.6666666666666666
+    },
+    "FAA-2021-0259": {
+      "industry": 0.75,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2021-0262": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2021-0273": {
+      "industry": 0.8333333333333334,
+      "labor": 0.16666666666666666,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2021-0331": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2021-0347": {
+      "industry": 0.5,
+      "labor": 0.5,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2021-0457": {
+      "industry": 0.75,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2021-0503": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2021-0504": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2021-0506": {
+      "industry": 0.75,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2021-0567": {
+      "industry": 0.5,
+      "labor": 0.5,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2021-0650": {
+      "industry": 0.03389830508474576,
+      "labor": 0.0,
+      "advocacy": 0.01694915254237288,
+      "expert": 0.01694915254237288,
+      "gov": 0.01694915254237288,
+      "lawfirm": 0.0,
+      "individual": 0.9152542372881356
+    },
+    "FAA-2021-0685": {
+      "industry": 0.8,
+      "labor": 0.2,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2021-0788": {
+      "industry": 0.5,
+      "labor": 0.5,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2021-0828": {
+      "industry": 0.6666666666666666,
+      "labor": 0.3333333333333333,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2021-0844": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2021-0959": {
+      "industry": 0.75,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2021-0962": {
+      "industry": 0.875,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.125
+    },
+    "FAA-2021-0963": {
+      "industry": 0.5,
+      "labor": 0.125,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.375
+    },
+    "FAA-2021-1020": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2021-1040": {
+      "industry": 0.023255813953488372,
+      "labor": 0.0,
+      "advocacy": 0.011627906976744186,
+      "expert": 0.0,
+      "gov": 0.023255813953488372,
+      "lawfirm": 0.0,
+      "individual": 0.9418604651162791
+    },
+    "FAA-2021-1073": {
+      "industry": 0.6,
+      "labor": 0.2,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.2
+    },
+    "FAA-2022-0015": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "FAA-2022-0093": {
+      "industry": 0.75,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.25
+    },
+    "FAA-2022-0103": {
+      "industry": 0.875,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.125
+    },
+    "FAA-2022-0154": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2022-0156": {
+      "industry": 0.6666666666666666,
+      "labor": 0.3333333333333333,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2022-0159": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2022-0160": {
+      "industry": 0.5,
+      "labor": 0.5,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2022-0190": {
+      "industry": 0.7333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.26666666666666666
+    },
+    "FAA-2022-0458": {
+      "industry": 0.8333333333333334,
+      "labor": 0.16666666666666666,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2022-0467": {
+      "industry": 0.6,
+      "labor": 0.2,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.2
+    },
+    "FAA-2022-0514": {
+      "industry": 0.6666666666666666,
+      "labor": 0.3333333333333333,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2022-0516": {
+      "industry": 0.5,
+      "labor": 0.5,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2022-0588": {
+      "industry": 0.75,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2022-0772": {
+      "industry": 0.2777777777777778,
+      "labor": 0.1111111111111111,
+      "advocacy": 0.05555555555555555,
+      "expert": 0.0,
+      "gov": 0.05555555555555555,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "FAA-2022-0810": {
+      "industry": 0.8571428571428571,
+      "labor": 0.14285714285714285,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2022-0815": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2022-0891": {
+      "industry": 0.041666666666666664,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.20833333333333334,
+      "lawfirm": 0.0,
+      "individual": 0.75
+    },
+    "FAA-2022-0912": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2022-1068": {
+      "industry": 0.6666666666666666,
+      "labor": 0.3333333333333333,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2022-1203": {
+      "industry": 0.17647058823529413,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.7058823529411765,
+      "lawfirm": 0.0,
+      "individual": 0.11764705882352941
+    },
+    "FAA-2022-1304": {
+      "industry": 0.75,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2022-1312": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2022-1417": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2022-1479": {
+      "industry": 0.8,
+      "labor": 0.2,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2022-1563": {
+      "industry": 0.8,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.2
+    },
+    "FAA-2022-1647": {
+      "industry": 0.7948717948717948,
+      "labor": 0.05128205128205128,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.02564102564102564,
+      "lawfirm": 0.0,
+      "individual": 0.1282051282051282
+    },
+    "FAA-2023-0163": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2023-0436": {
+      "industry": 0.8,
+      "labor": 0.2,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2023-0670": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FAA-2023-0921": {
+      "industry": 0.5,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.25
+    },
+    "FDA-1976-N-0476": {
+      "industry": 0.7837837837837838,
+      "labor": 0.0,
+      "advocacy": 0.02702702702702703,
+      "expert": 0.08108108108108109,
+      "gov": 0.10810810810810811,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FDA-1992-N-0455": {
+      "industry": 0.9411764705882353,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.058823529411764705,
+      "individual": 0.0
+    },
+    "FDA-1995-P-0188": {
+      "industry": 0.6,
+      "labor": 0.0,
+      "advocacy": 0.4,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FDA-1996-N-0114": {
+      "industry": 0.5,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.25,
+      "gov": 0.0,
+      "lawfirm": 0.25,
+      "individual": 0.0
+    },
+    "FDA-1996-N-0233": {
+      "industry": 0.6,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.4,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FDA-2004-N-0258": {
+      "industry": 0.05714285714285714,
+      "labor": 0.0,
+      "advocacy": 0.02857142857142857,
+      "expert": 0.05714285714285714,
+      "gov": 0.014285714285714285,
+      "lawfirm": 0.0,
+      "individual": 0.8428571428571429
+    },
+    "FDA-2005-N-0343": {
+      "industry": 0.9473684210526315,
+      "labor": 0.0,
+      "advocacy": 0.05263157894736842,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FDA-2011-F-0171": {
+      "industry": 0.1509433962264151,
+      "labor": 0.0,
+      "advocacy": 0.07547169811320754,
+      "expert": 0.018867924528301886,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.7547169811320755
+    },
+    "FDA-2011-F-0172": {
+      "industry": 0.16666666666666666,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.16666666666666666,
+      "lawfirm": 0.0,
+      "individual": 0.6666666666666666
+    },
+    "FDA-2013-N-0134": {
+      "industry": 0.11538461538461539,
+      "labor": 0.0,
+      "advocacy": 0.0641025641025641,
+      "expert": 0.1282051282051282,
+      "gov": 0.02564102564102564,
+      "lawfirm": 0.0,
+      "individual": 0.6666666666666666
+    },
+    "FDA-2014-N-0053": {
+      "industry": 0.2072072072072072,
+      "labor": 0.0,
+      "advocacy": 0.05405405405405406,
+      "expert": 0.018018018018018018,
+      "gov": 0.009009009009009009,
+      "lawfirm": 0.0,
+      "individual": 0.7117117117117117
+    },
+    "FDA-2014-N-1209": {
+      "industry": 0.043010752688172046,
+      "labor": 0.0,
+      "advocacy": 0.021505376344086023,
+      "expert": 0.021505376344086023,
+      "gov": 0.010752688172043012,
+      "lawfirm": 0.0,
+      "individual": 0.9032258064516129
+    },
+    "FDA-2015-N-1355": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.2857142857142857,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.7142857142857143
+    },
+    "FDA-2015-N-2002": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.15,
+      "expert": 0.05,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.8
+    },
+    "FDA-2016-N-0400": {
+      "industry": 0.18421052631578946,
+      "labor": 0.0,
+      "advocacy": 0.02631578947368421,
+      "expert": 0.02631578947368421,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.7631578947368421
+    },
+    "FDA-2016-N-0406": {
+      "industry": 0.5,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "FDA-2016-N-1111": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.19230769230769232,
+      "expert": 0.07692307692307693,
+      "gov": 0.0,
+      "lawfirm": 0.019230769230769232,
+      "individual": 0.7115384615384616
+    },
+    "FDA-2016-N-1487": {
+      "industry": 0.8571428571428571,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.14285714285714285
+    },
+    "FDA-2016-N-1896": {
+      "industry": 0.25,
+      "labor": 0.0,
+      "advocacy": 0.25,
+      "expert": 0.25,
+      "gov": 0.25,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FDA-2016-N-3464": {
+      "industry": 0.14285714285714285,
+      "labor": 0.0,
+      "advocacy": 0.14285714285714285,
+      "expert": 0.2857142857142857,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.42857142857142855
+    },
+    "FDA-2016-N-3818": {
+      "industry": 0.15384615384615385,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.038461538461538464,
+      "lawfirm": 0.0,
+      "individual": 0.8076923076923077
+    },
+    "FDA-2018-F-3757": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "FDA-2018-N-0628": {
+      "industry": 0.25,
+      "labor": 0.0,
+      "advocacy": 0.125,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.625
+    },
+    "FDA-2018-N-1622": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.5,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "FDA-2018-N-2727": {
+      "industry": 0.14814814814814814,
+      "labor": 0.0,
+      "advocacy": 0.1111111111111111,
+      "expert": 0.3333333333333333,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.4074074074074074
+    },
+    "FDA-2018-N-3066": {
+      "industry": 0.6666666666666666,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.3333333333333333,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FDA-2018-N-3303": {
+      "industry": 0.8,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.2,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FDA-2018-N-4757": {
+      "industry": 0.5,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "FDA-2019-N-1250": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "FDA-2019-N-3065": {
+      "industry": 0.08333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.13541666666666666,
+      "expert": 0.21875,
+      "gov": 0.0625,
+      "lawfirm": 0.020833333333333332,
+      "individual": 0.4791666666666667
+    },
+    "FDA-2019-N-4750": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.5,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "FDA-2021-N-0555": {
+      "industry": 0.02666666666666667,
+      "labor": 0.0,
+      "advocacy": 0.06,
+      "expert": 0.02,
+      "gov": 0.013333333333333334,
+      "lawfirm": 0.0,
+      "individual": 0.88
+    },
+    "FDA-2021-N-0851": {
+      "industry": 0.07692307692307693,
+      "labor": 0.0,
+      "advocacy": 0.1282051282051282,
+      "expert": 0.5641025641025641,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.23076923076923078
+    },
+    "FEMA-2019-0011": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.4,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.6
+    },
+    "FEMA-2019-0016": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.3333333333333333,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.6666666666666666
+    },
+    "FS-2019-0010": {
+      "industry": 0.01020408163265306,
+      "labor": 0.0,
+      "advocacy": 0.030612244897959183,
+      "expert": 0.01020408163265306,
+      "gov": 0.030612244897959183,
+      "lawfirm": 0.0,
+      "individual": 0.9183673469387755
+    },
+    "FSIS-2016-0017": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "FSIS-2018-0012": {
+      "industry": 0.2222222222222222,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.1111111111111111,
+      "gov": 0.05555555555555555,
+      "lawfirm": 0.0,
+      "individual": 0.6111111111111112
+    },
+    "FSIS-2018-0019": {
+      "industry": 0.2,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.8
+    },
+    "FSIS-2018-0027": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.2,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.8
+    },
+    "FSIS-2018-0029": {
+      "industry": 0.7647058823529411,
+      "labor": 0.058823529411764705,
+      "advocacy": 0.058823529411764705,
+      "expert": 0.0,
+      "gov": 0.029411764705882353,
+      "lawfirm": 0.0,
+      "individual": 0.08823529411764706
+    },
+    "FSIS-2019-0001": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FSIS-2021-0004": {
+      "industry": 0.1,
+      "labor": 0.0,
+      "advocacy": 0.1,
+      "expert": 0.1,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.7
+    },
+    "FWS-HQ-ES-2018-0006": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.02,
+      "expert": 0.0,
+      "gov": 0.04,
+      "lawfirm": 0.02,
+      "individual": 0.92
+    },
+    "FWS-HQ-ES-2018-0009": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.75,
+      "lawfirm": 0.0,
+      "individual": 0.25
+    },
+    "FWS-HQ-ES-2018-0097": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "FWS-HQ-ES-2019-0014": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.2,
+      "lawfirm": 0.0,
+      "individual": 0.8
+    },
+    "FWS-HQ-ES-2019-0115": {
+      "industry": 0.010638297872340425,
+      "labor": 0.0,
+      "advocacy": 0.010638297872340425,
+      "expert": 0.0,
+      "gov": 0.031914893617021274,
+      "lawfirm": 0.0,
+      "individual": 0.9468085106382979
+    },
+    "FWS-HQ-ES-2020-0047": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.010526315789473684,
+      "expert": 0.0,
+      "gov": 0.010526315789473684,
+      "lawfirm": 0.0,
+      "individual": 0.9789473684210527
+    },
+    "FWS-HQ-ES-2021-0033": {
+      "industry": 0.2,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.2,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.6
+    },
+    "FWS-HQ-MB-2015-0161": {
+      "industry": 0.013888888888888888,
+      "labor": 0.0,
+      "advocacy": 0.08333333333333333,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.9027777777777778
+    },
+    "FWS-HQ-MB-2017-0028": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.15217391304347827,
+      "expert": 0.0,
+      "gov": 0.021739130434782608,
+      "lawfirm": 0.0,
+      "individual": 0.8260869565217391
+    },
+    "FWS-HQ-MB-2018-0012": {
+      "industry": 1.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FWS-HQ-MB-2018-0090": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.04819277108433735,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.9518072289156626
+    },
+    "FWS-HQ-MB-2021-0048": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.046875,
+      "expert": 0.0,
+      "gov": 0.015625,
+      "lawfirm": 0.0,
+      "individual": 0.9375
+    },
+    "FWS-HQ-MB-2021-0057": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.1111111111111111,
+      "expert": 0.1111111111111111,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.7777777777777778
+    },
+    "FWS-HQ-MB-2022-0090": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "FWS-R1-ES-2007-0024": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.08695652173913043,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.9130434782608695
+    },
+    "FWS-R1-ES-2016-0145": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.2,
+      "lawfirm": 0.0,
+      "individual": 0.8
+    },
+    "FWS-R1-ES-2017-0051": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.1111111111111111,
+      "expert": 0.0,
+      "gov": 0.1111111111111111,
+      "lawfirm": 0.0,
+      "individual": 0.7777777777777778
+    },
+    "FWS-R1-ES-2020-0050": {
+      "industry": 0.01098901098901099,
+      "labor": 0.0,
+      "advocacy": 0.02197802197802198,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.967032967032967
+    },
+    "FWS-R1-ES-2020-0082": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "FWS-R1-ES-2020-0153": {
+      "industry": 0.3333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.3333333333333333,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.3333333333333333
+    },
+    "FWS-R1-ES-2021-0070": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.125,
+      "expert": 0.125,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.75
+    },
+    "FWS-R1-ES-2022-0061": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.2,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.8
+    },
+    "FWS-R2-ES-2016-0077": {
+      "industry": 0.25,
+      "labor": 0.0,
+      "advocacy": 0.05,
+      "expert": 0.05,
+      "gov": 0.3,
+      "lawfirm": 0.15,
+      "individual": 0.2
+    },
+    "FWS-R2-ES-2016-0137": {
+      "industry": 0.13333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.26666666666666666,
+      "expert": 0.0,
+      "gov": 0.13333333333333333,
+      "lawfirm": 0.0,
+      "individual": 0.4666666666666667
+    },
+    "FWS-R2-ES-2017-0014": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "FWS-R2-ES-2018-0029": {
+      "industry": 0.14285714285714285,
+      "labor": 0.0,
+      "advocacy": 0.2857142857142857,
+      "expert": 0.07142857142857142,
+      "gov": 0.14285714285714285,
+      "lawfirm": 0.0,
+      "individual": 0.35714285714285715
+    },
+    "FWS-R2-ES-2020-0015": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.5,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "FWS-R2-ES-2020-0123": {
+      "industry": 0.14285714285714285,
+      "labor": 0.0,
+      "advocacy": 0.5714285714285714,
+      "expert": 0.0,
+      "gov": 0.2857142857142857,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FWS-R2-ES-2021-0015": {
+      "industry": 0.36,
+      "labor": 0.0,
+      "advocacy": 0.28,
+      "expert": 0.0,
+      "gov": 0.12,
+      "lawfirm": 0.02,
+      "individual": 0.22
+    },
+    "FWS-R2-ES-2021-0041": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.25,
+      "expert": 0.0,
+      "gov": 0.25,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "FWS-R2-ES-2021-0054": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.5,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "FWS-R2-ES-2021-0098": {
+      "industry": 0.15384615384615385,
+      "labor": 0.0,
+      "advocacy": 0.07692307692307693,
+      "expert": 0.0,
+      "gov": 0.15384615384615385,
+      "lawfirm": 0.0,
+      "individual": 0.6153846153846154
+    },
+    "FWS-R3-ES-2018-0056": {
+      "industry": 0.3333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.3333333333333333,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.3333333333333333
+    },
+    "FWS-R3-ES-2019-0020": {
+      "industry": 0.5,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "FWS-R3-ES-2021-0061": {
+      "industry": 0.6666666666666666,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.3333333333333333,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FWS-R4-ES-2013-0010": {
+      "industry": 0.1111111111111111,
+      "labor": 0.0,
+      "advocacy": 0.1111111111111111,
+      "expert": 0.3333333333333333,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.4444444444444444
+    },
+    "FWS-R4-ES-2017-0061": {
+      "industry": 0.3076923076923077,
+      "labor": 0.0,
+      "advocacy": 0.23076923076923078,
+      "expert": 0.0,
+      "gov": 0.15384615384615385,
+      "lawfirm": 0.0,
+      "individual": 0.3076923076923077
+    },
+    "FWS-R4-ES-2018-0010": {
+      "industry": 0.42857142857142855,
+      "labor": 0.0,
+      "advocacy": 0.21428571428571427,
+      "expert": 0.0,
+      "gov": 0.35714285714285715,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FWS-R4-ES-2018-0046": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.3333333333333333,
+      "expert": 0.0,
+      "gov": 0.3333333333333333,
+      "lawfirm": 0.0,
+      "individual": 0.3333333333333333
+    },
+    "FWS-R4-ES-2018-0057": {
+      "industry": 0.09090909090909091,
+      "labor": 0.0,
+      "advocacy": 0.18181818181818182,
+      "expert": 0.06060606060606061,
+      "gov": 0.3939393939393939,
+      "lawfirm": 0.0,
+      "individual": 0.2727272727272727
+    },
+    "FWS-R4-ES-2018-0074": {
+      "industry": 0.16666666666666666,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.3333333333333333,
+      "gov": 0.16666666666666666,
+      "lawfirm": 0.0,
+      "individual": 0.3333333333333333
+    },
+    "FWS-R4-ES-2018-0092": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.6666666666666666,
+      "lawfirm": 0.0,
+      "individual": 0.3333333333333333
+    },
+    "FWS-R4-ES-2020-0094": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 1.0
+    },
+    "FWS-R4-ES-2020-0107": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.2,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.8
+    },
+    "FWS-R4-ES-2020-0137": {
+      "industry": 0.3333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.16666666666666666,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "FWS-R5-ES-2018-0050": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.3333333333333333,
+      "expert": 0.0,
+      "gov": 0.6666666666666666,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "FWS-R6-ES-2017-0089": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.2692307692307692,
+      "expert": 0.01282051282051282,
+      "gov": 0.038461538461538464,
+      "lawfirm": 0.0,
+      "individual": 0.6794871794871795
+    },
+    "FWS-R6-ES-2019-0054": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.06349206349206349,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.9365079365079365
+    },
+    "FWS-R6-ES-2022-0100": {
+      "industry": 0.024691358024691357,
+      "labor": 0.0,
+      "advocacy": 0.08641975308641975,
+      "expert": 0.012345679012345678,
+      "gov": 0.024691358024691357,
+      "lawfirm": 0.0,
+      "individual": 0.8518518518518519
+    },
+    "FWS-R7-MB-2016-0136": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.14285714285714285,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.8571428571428571
+    },
+    "FWS-R7-SM-2018-0003": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.6666666666666666,
+      "lawfirm": 0.0,
+      "individual": 0.3333333333333333
+    },
+    "FWS-R8-ES-2016-0127": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.14285714285714285,
+      "expert": 0.14285714285714285,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.7142857142857143
+    },
+    "FWS-R8-ES-2018-0076": {
+      "industry": 0.6,
+      "labor": 0.0,
+      "advocacy": 0.2,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.2
+    },
+    "FWS-R8-ES-2020-0017": {
+      "industry": 0.07692307692307693,
+      "labor": 0.0,
+      "advocacy": 0.11538461538461539,
+      "expert": 0.19230769230769232,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.6153846153846154
+    },
+    "FWS-R8-ES-2021-0108": {
+      "industry": 0.2,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.1,
+      "individual": 0.7
+    },
+    "ICEB-2017-0001": {
+      "industry": 0.6,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.4,
+      "individual": 0.0
+    },
+    "ICEB-2021-0010": {
+      "industry": 0.2872340425531915,
+      "labor": 0.0,
+      "advocacy": 0.07446808510638298,
+      "expert": 0.031914893617021274,
+      "gov": 0.010638297872340425,
+      "lawfirm": 0.010638297872340425,
+      "individual": 0.5851063829787234
+    },
+    "MSHA-2014-0030": {
+      "industry": 0.5119047619047619,
+      "labor": 0.05952380952380952,
+      "advocacy": 0.03571428571428571,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.023809523809523808,
+      "individual": 0.36904761904761907
+    },
+    "MSHA-2018-0016": {
+      "industry": 0.6896551724137931,
+      "labor": 0.06896551724137931,
+      "advocacy": 0.034482758620689655,
+      "expert": 0.034482758620689655,
+      "gov": 0.034482758620689655,
+      "lawfirm": 0.0,
+      "individual": 0.13793103448275862
+    },
+    "NHTSA-2016-0031": {
+      "industry": 0.3333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.16666666666666666,
+      "expert": 0.0,
+      "gov": 0.08333333333333333,
+      "lawfirm": 0.0,
+      "individual": 0.4166666666666667
+    },
+    "NHTSA-2018-0017": {
+      "industry": 0.3333333333333333,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.6666666666666666
+    },
+    "NHTSA-2020-0067": {
+      "industry": 0.8,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.2
+    },
+    "NHTSA-2021-0001": {
+      "industry": 0.375,
+      "labor": 0.0,
+      "advocacy": 0.25,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.375
+    },
+    "NHTSA-2021-0053": {
+      "industry": 0.14492753623188406,
+      "labor": 0.014492753623188406,
+      "advocacy": 0.2753623188405797,
+      "expert": 0.014492753623188406,
+      "gov": 0.07246376811594203,
+      "lawfirm": 0.0,
+      "individual": 0.4782608695652174
+    },
+    "NOAA-NMFS-2017-0052": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.375,
+      "expert": 0.0,
+      "gov": 0.125,
+      "lawfirm": 0.0,
+      "individual": 0.5
+    },
+    "OSHA-2013-0023": {
+      "industry": 0.3511450381679389,
+      "labor": 0.16793893129770993,
+      "advocacy": 0.25190839694656486,
+      "expert": 0.03816793893129771,
+      "gov": 0.04580152671755725,
+      "lawfirm": 0.007633587786259542,
+      "individual": 0.13740458015267176
+    },
+    "OSHA-2015-0012": {
+      "industry": 0.5,
+      "labor": 0.25,
+      "advocacy": 0.0,
+      "expert": 0.25,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.0
+    },
+    "OSHA-2018-0003": {
+      "industry": 0.42857142857142855,
+      "labor": 0.07142857142857142,
+      "advocacy": 0.07142857142857142,
+      "expert": 0.07142857142857142,
+      "gov": 0.14285714285714285,
+      "lawfirm": 0.07142857142857142,
+      "individual": 0.14285714285714285
+    },
+    "OSHA-2021-0006": {
+      "industry": 0.390625,
+      "labor": 0.09375,
+      "advocacy": 0.171875,
+      "expert": 0.046875,
+      "gov": 0.046875,
+      "lawfirm": 0.0,
+      "individual": 0.25
+    },
+    "OSHA-H005C-2006-0870": {
+      "industry": 0.24615384615384617,
+      "labor": 0.1076923076923077,
+      "advocacy": 0.23076923076923078,
+      "expert": 0.1076923076923077,
+      "gov": 0.1076923076923077,
+      "lawfirm": 0.0,
+      "individual": 0.2
+    },
+    "USCBP-2017-0025": {
+      "industry": 0.8,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.0,
+      "individual": 0.2
+    },
+    "USCBP-2020-0009": {
+      "industry": 0.8163265306122449,
+      "labor": 0.0,
+      "advocacy": 0.0,
+      "expert": 0.0,
+      "gov": 0.0,
+      "lawfirm": 0.04081632653061224,
+      "individual": 0.14285714285714285
+    },
+    "USCIS-2008-0014": {
+      "industry": 0.034722222222222224,
+      "labor": 0.0,
+      "advocacy": 0.006944444444444444,
+      "expert": 0.006944444444444444,
+      "gov": 0.0,
+      "lawfirm": 0.013888888888888888,
+      "individual": 0.9375
+    },
+    "USCIS-2015-0006": {
+      "industry": 0.015873015873015872,
+      "labor": 0.0,
+      "advocacy": 0.07936507936507936,
+      "expert": 0.047619047619047616,
+      "gov": 0.015873015873015872,
+      "lawfirm": 0.015873015873015872,
+      "individual": 0.8253968253968254
+    },
+    "USCIS-2016-0006": {
+      "industry": 0.22784810126582278,
+      "labor": 0.0,
+      "advocacy": 0.02531645569620253,
+      "expert": 0.012658227848101266,
+      "gov": 0.012658227848101266,
+      "lawfirm": 0.02531645569620253,
+      "individual": 0.6962025316455697
+    },
+    "USCIS-2019-0010": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.015384615384615385,
+      "expert": 0.0,
+      "gov": 0.005128205128205128,
+      "lawfirm": 0.0,
+      "individual": 0.9794871794871794
+    },
+    "USCIS-2019-0011": {
+      "industry": 0.0,
+      "labor": 0.006172839506172839,
+      "advocacy": 0.10493827160493827,
+      "expert": 0.006172839506172839,
+      "gov": 0.0,
+      "lawfirm": 0.012345679012345678,
+      "individual": 0.8703703703703703
+    },
+    "USCIS-2020-0013": {
+      "industry": 0.007751937984496124,
+      "labor": 0.0,
+      "advocacy": 0.2248062015503876,
+      "expert": 0.05426356589147287,
+      "gov": 0.015503875968992248,
+      "lawfirm": 0.0,
+      "individual": 0.6976744186046512
+    },
+    "USCIS-2020-0019": {
+      "industry": 0.02040816326530612,
+      "labor": 0.02040816326530612,
+      "advocacy": 0.08163265306122448,
+      "expert": 0.061224489795918366,
+      "gov": 0.0,
+      "lawfirm": 0.02040816326530612,
+      "individual": 0.7959183673469388
+    },
+    "USCIS-2021-0006": {
+      "industry": 0.0,
+      "labor": 0.009900990099009901,
+      "advocacy": 0.0297029702970297,
+      "expert": 0.039603960396039604,
+      "gov": 0.0,
+      "lawfirm": 0.009900990099009901,
+      "individual": 0.9108910891089109
+    },
+    "USCIS-2022-0016": {
+      "industry": 0.0,
+      "labor": 0.0,
+      "advocacy": 0.25842696629213485,
+      "expert": 0.02247191011235955,
+      "gov": 0.02247191011235955,
+      "lawfirm": 0.0,
+      "individual": 0.6966292134831461
+    },
+    "EPA-HQ-OAR-1992-0083": {
+      "industry": 0.26928292931005254,
+      "labor": 0.012629259196473978,
+      "advocacy": 0.1078148838786235,
+      "expert": 0.04627903034412612,
+      "gov": 0.049415155111035766,
+      "lawfirm": 0.0050856077301237495,
+      "individual": 0.5094931344295643
+    },
+    "EPA-HQ-OW-2001-0001": {
+      "industry": 0.26928292931005254,
+      "labor": 0.012629259196473978,
+      "advocacy": 0.1078148838786235,
+      "expert": 0.04627903034412612,
+      "gov": 0.049415155111035766,
+      "lawfirm": 0.0050856077301237495,
+      "individual": 0.5094931344295643
+    },
+    "EPA-HQ-OAR-1991-0080": {
+      "industry": 0.26928292931005254,
+      "labor": 0.012629259196473978,
+      "advocacy": 0.1078148838786235,
+      "expert": 0.04627903034412612,
+      "gov": 0.049415155111035766,
+      "lawfirm": 0.0050856077301237495,
+      "individual": 0.5094931344295643
+    },
+    "EPA-HQ-OAR-1991-0078": {
+      "industry": 0.26928292931005254,
+      "labor": 0.012629259196473978,
+      "advocacy": 0.1078148838786235,
+      "expert": 0.04627903034412612,
+      "gov": 0.049415155111035766,
+      "lawfirm": 0.0050856077301237495,
+      "individual": 0.5094931344295643
+    },
+    "EPA-HQ-OAR-1992-0085": {
+      "industry": 0.26928292931005254,
+      "labor": 0.012629259196473978,
+      "advocacy": 0.1078148838786235,
+      "expert": 0.04627903034412612,
+      "gov": 0.049415155111035766,
+      "lawfirm": 0.0050856077301237495,
+      "individual": 0.5094931344295643
+    },
+    "EPA-HQ-OAR-2021-0664": {
+      "industry": 0.26928292931005254,
+      "labor": 0.012629259196473978,
+      "advocacy": 0.1078148838786235,
+      "expert": 0.04627903034412612,
+      "gov": 0.049415155111035766,
+      "lawfirm": 0.0050856077301237495,
+      "individual": 0.5094931344295643
+    },
+    "FAA-2023-0672": {
+      "industry": 0.26928292931005254,
+      "labor": 0.012629259196473978,
+      "advocacy": 0.1078148838786235,
+      "expert": 0.04627903034412612,
+      "gov": 0.049415155111035766,
+      "lawfirm": 0.0050856077301237495,
+      "individual": 0.5094931344295643
+    }
+  },
+  "population_level": {
+    "industry": 0.26928292931005254,
+    "labor": 0.012629259196473978,
+    "advocacy": 0.1078148838786235,
+    "expert": 0.04627903034412612,
+    "gov": 0.049415155111035766,
+    "lawfirm": 0.0050856077301237495,
+    "individual": 0.5094931344295643
+  },
+  "n_dockets": 558,
+  "n_clusters_used": 11798,
+  "n_clusters_dropped": 222,
+  "n_dockets_with_fallback": 7
+}

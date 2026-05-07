@@ -1,0 +1,9 @@
+data/
+*.pyc
+__pycache__/
+.DS_Store
+*.egg-info/
+*.pkl
+*.pt
+*.bin
+.retriv_indexes/

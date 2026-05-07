@@ -1,0 +1,91 @@
+{
+  "ground_truth": {
+    "nader_cited_unique_submissions": 307,
+    "nader_cited_unique_doc_ids": 317,
+    "nader_unique_cite_ids": 1883,
+    "nader_total_citation_rows": 2060,
+    "nader_unique_points": 200
+  },
+  "pipeline_summary": {
+    "total_submissions_in_pipeline": 8660,
+    "total_claims": 10235,
+    "total_clusters": 8686,
+    "total_matched_submissions": 2153,
+    "total_matched_claims": 2876,
+    "total_matched_clusters": 2174,
+    "total_matched_pairs": 3657,
+    "responses_extracted": 72,
+    "responses_with_matches": 64,
+    "match_rate_pct": 24.9
+  },
+  "recall_without_expansion": {
+    "cited_in_pipeline": 232,
+    "cited_matched": 205,
+    "recall_of_307": 66.8,
+    "recall_of_in_pipeline": 88.4,
+    "missing_from_pipeline": 75,
+    "in_pipeline_not_matched": 27
+  },
+  "recall_with_cluster_expansion": {
+    "directly_matched": 205,
+    "recovered_missing_via_cluster": 13,
+    "recovered_in_pipeline_via_cluster": 0,
+    "total_with_expansion": 218,
+    "recall_with_expansion": 71.0
+  },
+  "recall_with_nader_neardup_expansion": {
+    "expanded_unique_subs": 334,
+    "expanded_in_pipeline": 249,
+    "expanded_matched": 220,
+    "expanded_recall_pct": 65.9
+  },
+  "error_breakdown": {
+    "directly_matched": 205,
+    "not_in_mapper": 1,
+    "dedup_merged_rep_not_matched": 61,
+    "dedup_merged_recoverable": 13,
+    "in_pipeline_retrieval_gap": 0,
+    "in_pipeline_ce_threshold": 27,
+    "in_pipeline_cluster_recoverable": 0
+  },
+  "novel_matches": {
+    "total_matched_subs": 2153,
+    "overlap_with_nader": 205,
+    "novel_subs": 1948,
+    "novel_claims": 2283,
+    "novel_ce_mean": 0.881,
+    "novel_ce_median": 0.946,
+    "nader_ce_mean": 0.916,
+    "nader_ce_median": 0.975,
+    "novel_above_nader_median_pct": 33.7
+  },
+  "score_distributions": {
+    "nader_matched": {
+      "ce_mean": 0.916,
+      "ce_median": 0.975,
+      "ce_std": 0.12,
+      "dense_mean": 0.64,
+      "dense_median": 0.646,
+      "n_claims": 593
+    },
+    "novel_matched": {
+      "ce_mean": 0.881,
+      "ce_median": 0.946,
+      "ce_std": 0.137,
+      "dense_mean": 0.631,
+      "dense_median": 0.637,
+      "n_claims": 2283
+    }
+  },
+  "pilot_comparison": {
+    "pilot_recall_pct": 25.0,
+    "pilot_retrieval_reach_pct": 31.0,
+    "pilot_total_matched": 287,
+    "pilot_match_rate_pct": 3.4,
+    "current_recall_pct": 66.8,
+    "current_recall_with_expansion_pct": 71.0,
+    "current_total_matched_subs": 2153,
+    "current_match_rate_pct": 24.9,
+    "improvement_factor": 2.7
+  }
+}

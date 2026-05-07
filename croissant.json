@@ -8,7 +8,7 @@
   "@type": "sc:Dataset",
   "name": "DOCKET: Dataset of Comments, Knowledge, and Executive Texts",
   "description": "The largest structured, publicly available dataset of U.S. federal rulemaking. Contains 42.3M public comments on 22,400 regulations across 44 government agencies (2016-2026), with extracted provisions, matched claims, agency responses, and a 558-docket pluralism benchmark (DOCKETBench).",
-  "url": "https://anonymous.4open.science/r/docket-bench-EF42/",
+  "url": "https://huggingface.co/datasets/docket-dataset-bench/docket-bench",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "conformsTo": "http://mlcommons.org/croissant/1.1",
   "version": "1.0.0",
